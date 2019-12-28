@@ -1,0 +1,42 @@
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+  background-color:#fff;
+
+  font-weight: normal;
+  color: #404040;
+}
+
+p {
+  line-height: 1.7em;
+  margin-bottom: 1em;
+}
+
+img {
+  padding: 5px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px #dddddd;
+}
+
+.article-content a {
+  border-bottom: 1px solid rgb(48, 83, 197);
+  box-shadow: inset 0 -2px 0 rgb(90, 121, 223);
+}
+
+@media (min-width: 600px) {
+  .content {
+  font-size: 14px;
+  line-height: 1.8;
+}
+}
+
+.text-center {
+  text-align: center
+}
+
+div#TOC {
+  position: fixed;
+  left: 0em;
+  top: 150px;
+}

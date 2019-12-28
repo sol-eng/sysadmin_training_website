@@ -1,0 +1,138 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.left1 {
+  width: 70%;
+}
+.right1 {
+  width: 10%;
+  padding: 1px 1px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.fa-tags {
+  color: lightgray;
+}
+</style>
+{{ partial "head" . }}
+
+<div class="single-page">
+  {{ partial "nav" . }}
+</div>
+
+<div class="page documentation">
+  <div class="side-menu" id="side-menu">
+    {{ $currentNode := .}}
+    <ul class="side-menu-list" data-parenturl="{{.Params.url}}" style="display: none;">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    {{ if .HasChildren }}
+      <li class="side-menu__item{{if $currentNode.HasMenuCurrent "main" . }} active{{end}}{{if $currentNode.IsMenuCurrent "main" . }} active{{end}}">
+          <a href="{{.URL}}" >
+              {{ .Pre }}
+              <span class="side-menu__item__link__text">{{ .Name }}</span>
+          </a>
+      </li>
+      <ul class="sub-menu">
+          {{ range .Children }}
+          <li class="side-menu__sub__item{{if $currentNode.IsMenuCurrent "main" . }} active{{end}} {{if (eq .Name "Reference") }}{{if (in $currentNode.URL "/reference/") }} active {{ end }}{{ end }}"><a id="menu-link-{{.URL}}" class="side-menu__sub__item__text" href="{{.URL}}" data-url="{{.URL}}"#>
+    {{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <li>
+          <a href="{{.URL}}">
+              <span class="side-menu__item__link__text">{{ .Name }}</span>
+          </a>
+      </li>
+    {{ end }}
+    {{ end }}
+    </ul>
+</div>
+<div class="content">
+  <h1 class="content-header">{{ .Title }} {{ if .Draft }} (Draft){{ end }}</h1>
+
+
+  <div class="markdowned">
+    
+    <div class = "row">
+      <div class = "column1 left1">
+
+    
+    <div class="doc-page-body"> 
+    <div class="doc-page">
+    
+      <div class="doc-page-index">
+      <ul id="gumsWhoe-container" data-gumshoe>
+      </ul>
+      </div>
+      
+      <div class="doc-page-body">  
+      {{ .Content }}
+      <table>
+      
+      {{ range .Pages }}
+      <tr>
+      <th>
+      <p>
+        <a style="font-size:18px;" href="{{.Permalink}}">{{.Title}}</a>
+      <br/>
+      {{ if and (isset .Params "summary") (not (eq .Params.summary "")) }}
+        {{ printf "%s" .Params.summary | markdownify }}
+      {{else}}
+        {{ printf "%s" .Summary | markdownify | truncate 300}}
+      {{ end }} 
+      <a href="{{ .Permalink }}" title="{{ .Title }}"><small>Read More…</small></a>
+    
+
+    <br/>
+    <i class="fa fa-tags" aria-hidden="true"></i>
+    {{ $params := .Params }}
+    {{ range $key, $value := $.Site.Taxonomies }}
+    {{ if isset $params $key }}
+    {{ range (index $params $key) }}
+    <a style="font-size:12px;" href="{{ $.Site.BaseURL }}{{ $key | urlize }}/{{ . | urlize }}/">{{ . }}</a>
+    {{ end }}
+    {{ end }}
+    {{ end }}    
+      </p>
+      </th>
+      </tr>
+      
+
+
+      {{ end }}
+      
+      </table>
+      
+
+      
+      </div>
+  </div>
+</div>
+</div>
+  <div class = "column right1" >
+    
+            <p><a href="/tags">Article Tags</a></p>
+            {{ range $key, $value := .Site.Taxonomies.tags }}
+            
+              <a style="font-size:12px; line-height:150%" href=/tags/{{ $key | urlize }}>{{ $key }}({{ len $value }})</a><br/>
+            
+            
+            {{ end }}
+  </div>
+</div>
+{{ partial "footer" .}}
+
+</div>
+</div>
+
+</body>
+</html>
+

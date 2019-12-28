@@ -1,0 +1,54 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Sys-admin training"
+theme = "rstudio-docs-theme"
+metadataformat = "yaml"
+uglyURLs = false
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+relativeURLS = true
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[params]
+	author = "RStudio Solutions Engineering"
+	description = ""
+	copyright = "RStudio, Inc."
+	repo = "https://github.com/sol-eng"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+# Define main menu --------------------------------------------------------
+
+[[menu.main]]
+	name = "Overview"
+	identifier = "overview-sidebar"
+	weight = 10
+
+[[menu.main]]
+	name = "RStudio Server Pro and Security"
+	identifier = "rsp-sidebar"
+	weight = 20
+
+[[menu.main]]
+	name = "RStudio Connect"
+	identifier = "connect-sidebar"
+	weight = 30
+
+[[menu.main]]
+	name = "RStudio Package Manager"
+	identifier = "rspm-sidebar"
+	weight = 40
+
+[[menu.main]]
+	name = "Trouble shooting"
+	identifier = "troubleshooting-sidebar"
+	weight = 50
+
+[[menu.main]]
+	name = "General"
+	identifier = "general-sidebar"
+	weight = 50
