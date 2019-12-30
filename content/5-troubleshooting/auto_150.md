@@ -4,10 +4,15 @@ weight: 150
 tags: ["overview"]
 ---
 
-src = https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html
+src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html"
 
-<iframe src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html" width="1067px" height="600px">
-</iframe>
+<div class="resp-container">
+  <iframe 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html" 
+        class="resp-iframe" 
+        gesture="media"  allow="encrypted-media" allowfullscreen>
+  </iframe>
+</div>
 
 
 To view the presentation in full screen, click into the presentation then press "f" on your keyboard.

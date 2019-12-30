@@ -2,9 +2,6 @@ baseURL = "/"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[markup.goldmark.renderer]
-unsafe = true
-
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "RStudio Team sys-admin training"
@@ -21,6 +18,9 @@ defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = false
 
 pluralizelisttitles = false
+
+[markup.goldmark.renderer]
+unsafe = true
 
 [Params]
 

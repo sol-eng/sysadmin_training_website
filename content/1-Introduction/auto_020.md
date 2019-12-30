@@ -1,14 +1,14 @@
 ---
-title: Installing RSPM
-weight: 110
+title: Welcome and introduction
+weight: 20
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html"
+src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html"
 
 <div class="resp-container">
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html" 
         class="resp-iframe" 
         gesture="media"  allow="encrypted-media" allowfullscreen>
   </iframe>

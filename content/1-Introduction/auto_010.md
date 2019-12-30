@@ -1,17 +1,17 @@
 ---
-title: Welcome and introduction
-weight: 20
+title: Overview
+weight: 10
 tags: ["overview"]
 ---
 
- src = https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html
+src="https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html"
 
 <div class="resp-container">
-    <iframe 
+  <iframe 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html" 
         class="resp-iframe" 
-        src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen>
-    </iframe>
+  </iframe>
 </div>
 
 
