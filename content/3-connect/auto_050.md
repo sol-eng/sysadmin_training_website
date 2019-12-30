@@ -1,16 +1,11 @@
 ---
 title: Install Connect
 type: docs
-menu:
-  main:
-    name: "Install Connect"
-    identifier: "install_connect"
-    parent: "connect-main"
-    weight: 50
+weight: 50
 tags: ["overview"]
 ---
 
- src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html"
+src = https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html
 
 <iframe src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html" width="1067px" height="600px">
 </iframe>

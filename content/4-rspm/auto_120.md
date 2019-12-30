@@ -1,16 +1,10 @@
 ---
 title: Configuring RSPM
-type: docs
-menu:
-  main:
-    name: "Configuring RSPM"
-    identifier: "configuring_rspm"
-    parent: "rspm-main"
-    weight: 120
+weight: 120
 tags: ["overview"]
 ---
 
- src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html"
+src = https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html
 
 <iframe src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html" width="1067px" height="600px">
 </iframe>

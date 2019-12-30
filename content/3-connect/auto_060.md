@@ -1,16 +1,11 @@
 ---
 title: Configure Connect
 type: docs
-menu:
-  main:
-    name: "Configure Connect"
-    identifier: "configure_connect"
-    parent: "connect-main"
-    weight: 60
+weight: 60
 tags: ["overview"]
 ---
 
- src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html"
+src = https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html
 
 <iframe src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html" width="1067px" height="600px">
 </iframe>

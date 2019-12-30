@@ -1,16 +1,11 @@
 ---
 title: Deploy APIs to Connect
 type: docs
-menu:
-  main:
-    name: "Deploy APIs to Connect"
-    identifier: "deploy_apis_to_connect"
-    parent: "connect-main"
-    weight: 100
+weight: 100
 tags: ["overview"]
 ---
 
- src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html"
+src = https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html
 
 <iframe src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html" width="1067px" height="600px">
 </iframe>

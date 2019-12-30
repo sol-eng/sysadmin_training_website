@@ -11,32 +11,22 @@
     
     
     <item>
-      <title>Configuring RSPM</title>
-      <link>/4-rspm/auto_120/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/4-rspm/auto_120/</guid>
-      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html&amp;rdquo;
-To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
-    </item>
-    
-    <item>
       <title>Installing RSPM</title>
       <link>/4-rspm/auto_110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/4-rspm/auto_110/</guid>
-      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html&amp;rdquo;
+      <description>src = https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html
 To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
     </item>
     
     <item>
-      <title>Using packages from RSPM</title>
-      <link>/4-rspm/auto_140/</link>
+      <title>Configuring RSPM</title>
+      <link>/4-rspm/auto_120/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/4-rspm/auto_140/</guid>
-      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html&amp;rdquo;
+      <guid>/4-rspm/auto_120/</guid>
+      <description>src = https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html
 To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
     </item>
     
@@ -46,7 +36,17 @@ To view the presentation in full screen, click into the presentation then press 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/4-rspm/auto_130/</guid>
-      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html&amp;rdquo;
+      <description>src = https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using packages from RSPM</title>
+      <link>/4-rspm/auto_140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_140/</guid>
+      <description>src = https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html
 To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
     </item>
     
