@@ -4,7 +4,7 @@ weight: 110
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html
 
 <div class="resp-container">
   <iframe 

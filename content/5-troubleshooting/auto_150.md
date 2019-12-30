@@ -4,7 +4,7 @@ weight: 150
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html
 
 <div class="resp-container">
   <iframe 

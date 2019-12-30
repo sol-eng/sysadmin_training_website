@@ -4,7 +4,7 @@ weight: 60
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html
 
 <div class="resp-container">
   <iframe 

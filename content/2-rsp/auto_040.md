@@ -4,7 +4,7 @@ weight: 40
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html
 
 <div class="resp-container">
   <iframe 

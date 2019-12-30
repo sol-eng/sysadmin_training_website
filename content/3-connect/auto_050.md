@@ -4,7 +4,7 @@ weight: 50
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html
 
 <div class="resp-container">
   <iframe 

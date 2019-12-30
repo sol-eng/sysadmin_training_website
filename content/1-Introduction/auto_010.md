@@ -4,7 +4,7 @@ weight: 10
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html
 
 <div class="resp-container">
   <iframe 

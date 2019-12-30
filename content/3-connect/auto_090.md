@@ -4,7 +4,7 @@ weight: 90
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html"
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html
 
 <div class="resp-container">
   <iframe 

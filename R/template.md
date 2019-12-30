@@ -4,7 +4,7 @@ weight: <<weight>>
 tags: ["overview"]
 ---
 
-src="https://colorado.rstudio.com/rsc/<<vanity_url>>/<<rmd_url>>"
+source: https://colorado.rstudio.com/rsc/<<vanity_url>>/<<rmd_url>>
 
 <div class="resp-container">
   <iframe 
