@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RStudio Team sys-admin training</title>
+    <link>/</link>
+    <description>Recent content on RStudio Team sys-admin training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Build-in Shortcodes</title>
+      <link>/sample/build-in-shortcodes/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/sample/build-in-shortcodes/</guid>
+      <description>See https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes
+figure   2 People Sitting With View of Yellow Flowers during Daytime   gist  highlight &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Data.Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; instagram    View this post on Instagram        #Talitha #Getty #yacht in #fjærland #fjærlandsfjorden #sognefjorden #mundal #norway #landscape #panorama #travel #instagoodmyphoto #justgoshoot #peoplescreatives #visualsoflife #photography #photoshoot #photodaily #photogram #instagood #picoftheday #fjærland #photooftheday #pentax #nrksf #sognavis</description>
+    </item>
+    
+    <item>
+      <title>Custom Shortcodes</title>
+      <link>/sample/custom-shortcodes/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/sample/custom-shortcodes/</guid>
+      <description>Custom Shortcodes Alert panel Alert panel using HTML Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Table of Contents</title>
+      <link>/sample/table-of-contents/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/sample/table-of-contents/</guid>
+      <description>The TableOfContents field set to true in your content’s front matter will render a table of contents.
+TableOfContents: true Section 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>Architecture and installation of RSP</title>
+      <link>/2-rsp/auto_030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2-rsp/auto_030/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Authentication and security</title>
+      <link>/2-rsp/auto_040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2-rsp/auto_040/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Configure Connect</title>
+      <link>/3-connect/auto_060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_060/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Configuring RSPM</title>
+      <link>/4-rspm/auto_120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_120/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Deploy APIs to Connect</title>
+      <link>/3-connect/auto_100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_100/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Deploy Markdown reports to Connect</title>
+      <link>/3-connect/auto_090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_090/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Deploy Shiny apps to Connect</title>
+      <link>/3-connect/auto_080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_080/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Install Connect</title>
+      <link>/3-connect/auto_050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_050/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Installing RSPM</title>
+      <link>/4-rspm/auto_110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_110/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>/5-finally/auto_150/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/5-finally/auto_150/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using Connect</title>
+      <link>/3-connect/auto_070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_070/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using packages from RSPM</title>
+      <link>/4-rspm/auto_140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_140/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using repositories with RSPM</title>
+      <link>/4-rspm/auto_130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_130/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Welcome and introduction</title>
+      <link>/1-getting-started/auto_020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-getting-started/auto_020/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

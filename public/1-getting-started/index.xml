@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1-getting-started on RStudio Team sys-admin training</title>
+    <link>/1-getting-started/</link>
+    <description>Recent content in 1-getting-started on RStudio Team sys-admin training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/1-getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome and introduction</title>
+      <link>/1-getting-started/auto_020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1-getting-started/auto_020/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

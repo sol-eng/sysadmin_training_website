@@ -1,54 +1,79 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Sys-admin training"
-theme = "rstudio-docs-theme"
-metadataformat = "yaml"
-uglyURLs = false
+baseURL = "/"
+
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-preserveTaxonomyNames = true
-relativeURLS = true
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "RStudio Team sys-admin training"
+theme = "techdoc-rstudio"
 
-[params]
-	author = "RStudio Solutions Engineering"
-	description = ""
-	copyright = "RStudio, Inc."
-	repo = "https://github.com/sol-eng"
+hasCJKLanguage = true
+metaDataFormat = "yaml"
 
-[markup.goldmark.renderer]
-unsafe = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableMissingTranslationPlaceholders = false
 
-# Define main menu --------------------------------------------------------
+pluralizelisttitles = false
 
+[Params]
+
+    # Souce Code repository section
+    description = "Introduction to system administration for RStudio Team"
+    github_repository = "https://github.com/thingsym/hugo-theme-techdochttps://github.com/sol-eng/sysadmin_training_website"
+    version = "0.0.1"
+
+    # Documentation repository section
+    # documentation repository (set edit link to documentation repository)
+    github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+
+    # Analytic section
+    google_analytics_id = "" # Your Google Analytics tracking id
+    tag_manager_container_id = "" # Your Google Tag Manager container id
+    google_site_verification = "" # Your Google Site Verification for Search Console
+
+    # Open Graph and Twitter Cards settings section
+    title = "Hugo Techdoc Theme"
+    images = ["og-image.png"]
+    # See https://gohugo.io/templates/internal/#open-graph
+    # See https://gohugo.io/templates/internal/#twitter-cards
+
+    # Theme settings section
+    # Theme color
+    custom_font_color = ""
+    custom_background_color = "#75AADB"
+
+    # Documentation Menu section
+    # Menu style settings
+    menu_style = "slide-menu" # "open-menu" or "slide-menu"
+
+    # Date format
+    dateformat = "2020/01/01" # default "2 Jan 2006"
+    # See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+
+    # path name excluded from documentation menu
+    menu_exclusion = [
+        "sample",
+        "blogs",
+        "posts"
+    ]
+
+# Global menu section
 [[menu.main]]
-	name = "Overview"
-	identifier = "overview-sidebar"
-	weight = 10
+    name = "Home"
+    url = "/"
+    weight = 1
 
-[[menu.main]]
-	name = "RStudio Server Pro and Security"
-	identifier = "rsp-sidebar"
-	weight = 20
+# [[menu.main]]
+#     name = "Twitter"
+#     url = "https://twitter.com/thingsym"
+#     weight = 2
 
-[[menu.main]]
-	name = "RStudio Connect"
-	identifier = "connect-sidebar"
-	weight = 30
 
-[[menu.main]]
-	name = "RStudio Package Manager"
-	identifier = "rspm-sidebar"
-	weight = 40
-
-[[menu.main]]
-	name = "Trouble shooting"
-	identifier = "troubleshooting-sidebar"
-	weight = 50
-
-[[menu.main]]
-	name = "General"
-	identifier = "general-sidebar"
-	weight = 50
+[taxonomies]
+  rsp = "RSP"
+  connect = "Connect"
+  rspm = "RSPM"

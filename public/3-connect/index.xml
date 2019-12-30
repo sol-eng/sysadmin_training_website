@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3-connect on RStudio Team sys-admin training</title>
+    <link>/3-connect/</link>
+    <description>Recent content in 3-connect on RStudio Team sys-admin training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/3-connect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configure Connect</title>
+      <link>/3-connect/auto_060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_060/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Deploy APIs to Connect</title>
+      <link>/3-connect/auto_100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_100/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Deploy Markdown reports to Connect</title>
+      <link>/3-connect/auto_090/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_090/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Deploy Shiny apps to Connect</title>
+      <link>/3-connect/auto_080/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_080/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Install Connect</title>
+      <link>/3-connect/auto_050/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_050/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using Connect</title>
+      <link>/3-connect/auto_070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/3-connect/auto_070/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

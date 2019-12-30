@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2-rsp on RStudio Team sys-admin training</title>
+    <link>/2-rsp/</link>
+    <description>Recent content in 2-rsp on RStudio Team sys-admin training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/2-rsp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture and installation of RSP</title>
+      <link>/2-rsp/auto_030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2-rsp/auto_030/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Authentication and security</title>
+      <link>/2-rsp/auto_040/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2-rsp/auto_040/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

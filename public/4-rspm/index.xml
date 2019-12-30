@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4-rspm on RStudio Team sys-admin training</title>
+    <link>/4-rspm/</link>
+    <description>Recent content in 4-rspm on RStudio Team sys-admin training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/4-rspm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuring RSPM</title>
+      <link>/4-rspm/auto_120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_120/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm/06_b_configure_rspm.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Installing RSPM</title>
+      <link>/4-rspm/auto_110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_110/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using packages from RSPM</title>
+      <link>/4-rspm/auto_140/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_140/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+    <item>
+      <title>Using repositories with RSPM</title>
+      <link>/4-rspm/auto_130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/4-rspm/auto_130/</guid>
+      <description>src=&amp;quot;https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html&amp;rdquo;
+To view the presentation in full screen, click into the presentation then press &amp;ldquo;f&amp;rdquo; on your keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>
