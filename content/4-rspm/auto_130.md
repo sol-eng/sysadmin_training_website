@@ -6,7 +6,7 @@ tags: ["overview"]
 
 source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html
 
-<div class="resp-container">
+<div class="responsive-container-xaringan">
 
   <div class="cssload-loader">
     <div class="cssload-inner cssload-one"></div>
@@ -15,7 +15,6 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositor
   </div>
   <iframe 
     src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html" 
-        class="resp-iframe" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
