@@ -1,5 +1,5 @@
 ---
-title: Deploy Shiny apps to Connect
+title: 5.1 Deploy Shiny apps to Connect
 weight: 80
 tags: ["overview"]
 ---
@@ -7,10 +7,17 @@ tags: ["overview"]
 source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html
 
 <div class="resp-container">
+
+  <div class="cssload-loader">
+    <div class="cssload-inner cssload-one"></div>
+    <div class="cssload-inner cssload-two"></div>
+    <div class="cssload-inner cssload-three"></div>
+  </div>
   <iframe 
     src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html" 
         class="resp-iframe" 
-        gesture="media"  allow="encrypted-media" allowfullscreen>
+        gesture="media"  allow="encrypted-media" allowfullscreen
+        scrolling="no">
   </iframe>
 </div>
 

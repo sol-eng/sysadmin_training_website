@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting
+title: 8.NA Troubleshooting
 weight: 150
 tags: ["overview"]
 ---
@@ -7,10 +7,17 @@ tags: ["overview"]
 source: https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html
 
 <div class="resp-container">
+
+  <div class="cssload-loader">
+    <div class="cssload-inner cssload-one"></div>
+    <div class="cssload-inner cssload-two"></div>
+    <div class="cssload-inner cssload-three"></div>
+  </div>
   <iframe 
     src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html" 
         class="resp-iframe" 
-        gesture="media"  allow="encrypted-media" allowfullscreen>
+        gesture="media"  allow="encrypted-media" allowfullscreen
+        scrolling="no">
   </iframe>
 </div>
 

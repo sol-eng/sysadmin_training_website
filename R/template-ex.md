@@ -1,5 +1,5 @@
 ---
-title: Exercise
+title: <<Session>>.<<Subsession>> Exercise
 weight: <<weight + 5>>
 tags: ["exercise"]
 ---

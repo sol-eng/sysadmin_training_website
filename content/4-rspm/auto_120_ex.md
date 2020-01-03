@@ -1,5 +1,5 @@
 ---
-title: Exercise
+title: 6.2 Exercise
 weight: 125
 tags: ["exercise"]
 ---

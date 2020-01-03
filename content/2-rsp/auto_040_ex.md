@@ -1,5 +1,5 @@
 ---
-title: Exercise
+title: 2.NA Exercise
 weight: 45
 tags: ["exercise"]
 ---
