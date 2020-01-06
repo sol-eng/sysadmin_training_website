@@ -65,6 +65,12 @@ unsafe = true
         "posts"
     ]
 
+    custom_css = [
+        "css/responsive-xaringan-iframe.css", 
+        "css/css-loader.css",
+        "animated-r.css"
+        ]
+
 # Global menu section
 [[menu.main]]
     name = "Home"
