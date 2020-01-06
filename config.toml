@@ -40,7 +40,7 @@ unsafe = true
     google_site_verification = "" # Your Google Site Verification for Search Console
 
     # Open Graph and Twitter Cards settings section
-    title = "Hugo Techdoc Theme"
+    title = "RStudio Team sys-admin training"
     images = ["og-image.png"]
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
@@ -55,7 +55,7 @@ unsafe = true
     menu_style = "slide-menu" # "open-menu" or "slide-menu"
 
     # Date format
-    dateformat = "2020/01/01" # default "2 Jan 2006"
+    dateformat = "2020-01-01" # default "2 Jan 2006"
     # See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
 
     # path name excluded from documentation menu
