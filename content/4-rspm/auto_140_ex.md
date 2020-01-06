@@ -6,6 +6,7 @@ tags: ["exercise"]
 
 source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages-exercise
 
+<div class="learnr-column">
 <div class="responsive-container-learnr">
   <!-- <div class="cssload-loader">
     <div class="cssload-inner cssload-one"></div>
@@ -25,6 +26,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages-
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
+</div>
 </div>
 
 

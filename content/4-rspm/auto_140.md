@@ -6,6 +6,7 @@ tags: ["overview"]
 
 source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html
 
+<div class="xaringan-column">
 <div class="responsive-container-xaringan">
 
   <!-- <div class="cssload-loader">
@@ -27,6 +28,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
+</div>
 </div>
 
 

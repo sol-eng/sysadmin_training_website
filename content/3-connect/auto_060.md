@@ -6,6 +6,7 @@ tags: ["overview"]
 
 source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html
 
+<div class="xaringan-column">
 <div class="responsive-container-xaringan">
 
   <!-- <div class="cssload-loader">
@@ -27,6 +28,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
+</div>
 </div>
 
 

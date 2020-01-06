@@ -68,7 +68,7 @@ unsafe = true
     custom_css = [
         "css/responsive-xaringan-iframe.css", 
         "css/css-loader.css",
-        "animated-r.css"
+        "css/animated-r.css"
         ]
 
 # Global menu section
