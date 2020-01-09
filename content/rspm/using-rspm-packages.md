@@ -1,10 +1,10 @@
 ---
-title: {{hugo_session}} {{Topic}}
-weight: {{weight}}
+title: 7.2 Using packages from RSPM
+weight: 260
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">{{vanity_url}}</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages" target="_blank">pro-admin-training/using-rspm-packages</a>
 
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
@@ -15,7 +15,7 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
     <div class="animated-r-diagonal"></div>
   </div>
   <iframe 
-    src="https://colorado.rstudio.com/rsc/{{vanity_url}}/{{rmd_url}}" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
@@ -24,5 +24,4 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
 
 
 To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-
 

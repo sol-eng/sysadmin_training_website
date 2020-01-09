@@ -79,7 +79,7 @@ unsafe = true
 
 [[menu.main]]
     name = "Curriculum"
-    url = "/0-overview/auto_010_rmd/"
+    url = "/overview/overview"
     weight = 2
 
 [[menu.main]]

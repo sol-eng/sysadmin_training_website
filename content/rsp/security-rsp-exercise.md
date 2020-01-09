@@ -1,10 +1,10 @@
 ---
-title: {{hugo_session}} {{Topic}}
-weight: {{weight + 5}}
+title: 2. Exercise
+weight: 75
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -17,16 +17,15 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
     <div class="animated-r-diagonal"></div>
   </div>
 
-  <iframe id="rmd_iframe"
-    src="https://colorado.rstudio.com/rsc/{{vanity_url}}" 
+  <iframe id="learnr_iframe"
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
 </div>
 
 <script>
-  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#rmd_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
-
 
 

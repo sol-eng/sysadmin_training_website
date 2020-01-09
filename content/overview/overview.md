@@ -1,10 +1,10 @@
 ---
-title: {{hugo_session}} {{Topic}}
-weight: {{weight + 5}}
+title: 0. Overview
+weight: 15
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/overview" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/overview</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -18,7 +18,7 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
   </div>
 
   <iframe id="rmd_iframe"
-    src="https://colorado.rstudio.com/rsc/{{vanity_url}}" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/overview" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
@@ -27,6 +27,5 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
 <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#rmd_iframe')
 </script>
-
 
 

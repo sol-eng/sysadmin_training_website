@@ -1,10 +1,10 @@
 ---
-title: {{hugo_session}} {{Topic}}
-weight: {{weight}}
+title: 3.1 Install Connect
+weight: 80
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">{{vanity_url}}</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect" target="_blank">pro-admin-training/install-connect</a>
 
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
@@ -15,7 +15,7 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
     <div class="animated-r-diagonal"></div>
   </div>
   <iframe 
-    src="https://colorado.rstudio.com/rsc/{{vanity_url}}/{{rmd_url}}" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
@@ -24,5 +24,4 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
 
 
 To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-
 
