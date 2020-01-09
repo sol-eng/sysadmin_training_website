@@ -1,14 +1,13 @@
 ---
-title: 1.2 Exercise
-weight: 55
+title: 1.1 Exercise
+weight: 35
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/getting-started
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<!-- <div class="learnr-column"> -->
 <div class="responsive-container-learnr">
 
   <div class="animated-r-wrapper">
@@ -19,12 +18,11 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/getting-started" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
 </div>
-<!-- </div> -->
 
 <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')

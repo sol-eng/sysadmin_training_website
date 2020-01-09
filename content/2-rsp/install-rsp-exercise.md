@@ -1,14 +1,13 @@
 ---
-title: 7.1 Exercise
-weight: 255
+title: 1.2 Exercise
+weight: 55
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<!-- <div class="learnr-column"> -->
 <div class="responsive-container-learnr">
 
   <div class="animated-r-wrapper">
@@ -19,12 +18,11 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositor
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
 </div>
-<!-- </div> -->
 
 <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')

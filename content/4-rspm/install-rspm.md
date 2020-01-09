@@ -1,10 +1,10 @@
 ---
-title: <<hugo_session>> <<Topic>>
-weight: <<weight>>
+title: 6.1 Installing RSPM
+weight: 200
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/<<vanity_url>>/<<rmd_url>>
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html
 
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
@@ -15,7 +15,7 @@ source: https://colorado.rstudio.com/rsc/<<vanity_url>>/<<rmd_url>>
     <div class="animated-r-diagonal"></div>
   </div>
   <iframe 
-    src="https://colorado.rstudio.com/rsc/<<vanity_url>>/<<rmd_url>>" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
@@ -24,5 +24,4 @@ source: https://colorado.rstudio.com/rsc/<<vanity_url>>/<<rmd_url>>
 
 
 To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-
 

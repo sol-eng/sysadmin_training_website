@@ -8,7 +8,6 @@ source: https://colorado.rstudio.com/rsc/<<vanity_url>>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<!-- <div class="learnr-column"> -->
 <div class="responsive-container-learnr">
 
   <div class="animated-r-wrapper">
@@ -24,7 +23,6 @@ source: https://colorado.rstudio.com/rsc/<<vanity_url>>
     scrolling="yes">
   </iframe>
 </div>
-<!-- </div> -->
 
 <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')

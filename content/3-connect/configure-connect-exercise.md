@@ -1,14 +1,13 @@
 ---
-title: 5.2 Exercise
-weight: 175
+title: 3.2 Exercise
+weight: 115
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<!-- <div class="learnr-column"> -->
 <div class="responsive-container-learnr">
 
   <div class="animated-r-wrapper">
@@ -19,12 +18,11 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exer
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
 </div>
-<!-- </div> -->
 
 <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')

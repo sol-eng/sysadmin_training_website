@@ -1,14 +1,13 @@
 ---
-title: 5.3 Exercise
-weight: 195
+title: 5.2 Exercise
+weight: 175
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<!-- <div class="learnr-column"> -->
 <div class="responsive-container-learnr">
 
   <div class="animated-r-wrapper">
@@ -19,12 +18,11 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber-exerc
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
 </div>
-<!-- </div> -->
 
 <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')

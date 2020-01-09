@@ -50,19 +50,20 @@ template_l <- readLines("R/template-learnr.md") %>% paste(collapse = "\n")
 i <- 1
 
 for (i in seq_len(nrow(dat))) {
+  out_file <- paste0(basename(dat$vanity_url[i]), ".md")
   switch(
     dat$Type[i], 
     rmarkdown = {
-      out_file <- sprintf("auto_%03d_rmd.md", dat$weight[i])
+      # out_file <- sprintf("auto_%03d_rmd.md", dat$weight[i])
       template <- template_r
     },
     xaringan = {
-      out_file <- sprintf("auto_%03d_x.md", dat$weight[i])
+      # out_file <- sprintf("auto_%03d_x.md", dat$weight[i])
       template <- template_x
       
     },
     learnr = {
-      out_file <- sprintf("auto_%03d_ex.md", dat$weight[i])
+      # out_file <- sprintf("auto_%03d_ex.md", dat$weight[i])
       template <- template_l
     }
   )
