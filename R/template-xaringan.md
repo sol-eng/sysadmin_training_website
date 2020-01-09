@@ -1,5 +1,5 @@
 ---
-title: <<Session>>.<<Subsession>> <<Topic>>
+title: <<hugo_session>> <<Topic>>
 weight: <<weight>>
 tags: ["overview"]
 ---

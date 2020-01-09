@@ -1,10 +1,10 @@
 ---
-title: <<Session>>.<<Subsession>> Exercise
+title: <<hugo_session>> Exercise
 weight: <<weight + 5>>
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/<<ex_vanity_url>>
+source: https://colorado.rstudio.com/rsc/<<vanity_url>>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: https://colorado.rstudio.com/rsc/<<ex_vanity_url>>
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/<<ex_vanity_url>>" 
+    src="https://colorado.rstudio.com/rsc/<<vanity_url>>" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
@@ -27,7 +27,7 @@ source: https://colorado.rstudio.com/rsc/<<ex_vanity_url>>
 <!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
 
 
