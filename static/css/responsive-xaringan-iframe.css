@@ -39,3 +39,24 @@ html, body {
   width: 1px;
   min-width: 100%;
 }
+
+
+main {
+  display:flex; 
+  flex-direction:column;
+  padding: 1rem;
+}
+
+.responsive-container-rmd {
+  flex-grow: 1; 
+  position: relative; 
+  display:flex; 
+  flex-direction:column;
+}
+
+.responsive-container-rmd iframe{
+  flex-grow: 1;
+  position: relative;
+  z-index:100;
+  border: none;
+}
