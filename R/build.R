@@ -32,7 +32,8 @@ dat <- read_csv("curriculum-2.csv", col_types = cols()) %>%
     id = tolower(gsub(" ", "_", Topic)),
     rmd_url = gsub(".Rmd$", ".html", rmd_filename),
     Product = tolower(Product),
-    hugo_chapter = paste(match(hugo_chapter, unique(hugo_chapter)) - 1, hugo_chapter, sep = "-"),
+    hugo_chapter = paste(match(hugo_chapter, unique(hugo_chapter)) - 1, hugo_chapter, sep = "-") %>% 
+      tolower() %>% gsub(" ", "-", .),
     hugo_session = if_else(
       !is.na(Subsession), 
       paste(Session, Subsession, sep = "."), 

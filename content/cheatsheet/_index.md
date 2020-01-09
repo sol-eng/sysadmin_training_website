@@ -13,18 +13,17 @@ source: https://colorado.rstudio.com/rsc/rstudio-team-sysadmin-cheatsheet/
     </div>
     <div class="animated-r-diagonal"></div>
   </div>
-
   <iframe id="rmd_cheatsheet"
     src="https://colorado.rstudio.com/rsc/rstudio-team-sysadmin-cheatsheet/" 
     gesture="media" scrolling="yes">
   </iframe>
-  <script>
-    $('#rmd_cheatsheet').on("load", function() {
-      $('.animated-r-wrapper').remove();
-    });
-  </script>
 </div>
 
+<script>
+  $('#rmd_cheatsheet').on("load", function() {
+    $('.animated-r-wrapper').remove();
+  });
+</script>
 
 
 

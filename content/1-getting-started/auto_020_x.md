@@ -1,5 +1,5 @@
 ---
-title: 1.1 Welcome and introduction
+title: 1.1 Introduction
 weight: 20
 tags: ["overview"]
 ---

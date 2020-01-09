@@ -1,5 +1,5 @@
 ---
 title: RStudio Server Pro
-weight: 2
+weight: 30
 tags: ["overview"]
 ---

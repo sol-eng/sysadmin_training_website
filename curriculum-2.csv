@@ -1,7 +1,7 @@
 Day,Session,Subsession,Product,Type,Topic,Contents,Duration,Trainer,rmd_filename,Colorado ID,colorado_title,vanity_url,hugo_chapter
-1,0,,Overview,rmarkdown,Overview,Curriculum,0,.,Overview.Rmd,1945,Pro Admin Training: Overview,pro-admin-training/overview,Home
-1,1,1,General,xaringan,Welcome and introduction,Welcome,30,Andrie,00_introduction.Rmd,1930,Pro Admin Training 0: Introduction,pro-admin-training/introduction,Introduction
-1,1,1,General,learnr,Welcome and introduction,Welcome,,,01_a_ex_getting_started.Rmd,3426,Pro Admin Training 1-1 exercise: Getting started,pro-admin-training/getting-started,Introduction
+1,0,,Overview,rmarkdown,Overview,Curriculum,0,.,Overview.Rmd,1945,Pro Admin Training: Overview,pro-admin-training/overview,Overview
+1,1,1,General,xaringan,Introduction,Welcome,30,Andrie,00_introduction.Rmd,1930,Pro Admin Training 0: Introduction,pro-admin-training/introduction,Getting started
+1,1,1,General,learnr,Introduction,Welcome,,,01_a_ex_getting_started.Rmd,3426,Pro Admin Training 1-1 exercise: Getting started,pro-admin-training/getting-started,Getting started
 1,1,2,RSP,xaringan,Architecture and installation of RSP,"RSP config, enterprise architecture, install multiple R",45,Andrie,01_install_rsp.Rmd,1931,Pro Admin Training 1: RStudio Server Pro,pro-admin-training/RSP,RSP
 1,1,2,RSP,learnr,Architecture and installation of RSP,"RSP config, enterprise architecture, install multiple R",,,01_b_ex_install_rsp.Rmd,1982,Pro Admin Training 1-2 exercise: Install and configure RSP,pro-admin-training/install-rsp-exercise,RSP
 1,2,,RSP,xaringan,Authentication and security,"Security, configure RSP with LDAP",75,"Cole, Nathan",02_security.Rmd,1932,Pro Admin Training 2: Security in RStudio Products,pro-admin-training/security,RSP

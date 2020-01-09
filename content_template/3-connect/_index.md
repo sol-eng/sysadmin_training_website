@@ -1,5 +1,5 @@
 ---
 title: Connect
-weight: 3
+weight: 40
 tags: ["overview"]
 ---

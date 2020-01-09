@@ -1,5 +1,5 @@
 ---
 title: Troubleshooting
-weight: 5
+weight: 60
 tags: ["overview"]
 ---
