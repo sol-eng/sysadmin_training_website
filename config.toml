@@ -69,7 +69,7 @@ unsafe = true
         "css/responsive-xaringan-iframe.css", 
         "css/css-loader.css",
         "css/animated-r.css"
-        ]
+    ]
 
 # Global menu section
 [[menu.main]]
@@ -78,14 +78,14 @@ unsafe = true
     weight = 1
 
 [[menu.main]]
-    name = "Cheat sheet"
-    url = "/cheatsheet"
+    name = "Curriculum"
+    url = "/0-home/auto_010_rmd/"
     weight = 2
 
-# [[menu.main]]
-#     name = "Twitter"
-#     url = "https://twitter.com/thingsym"
-#     weight = 2
+[[menu.main]]
+    name = "Cheat sheet"
+    url = "/cheatsheet"
+    weight = 3
 
 
 [taxonomies]
