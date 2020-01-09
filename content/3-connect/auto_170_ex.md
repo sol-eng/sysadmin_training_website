@@ -1,10 +1,10 @@
 ---
-title: 8.NA Exercise
-weight: 155
+title: 5.2 Exercise
+weight: 175
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/troubleshooting
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/troubleshooting
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshooting" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
@@ -27,7 +27,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/troubleshooting
 <!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
 
 

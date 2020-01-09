@@ -1,10 +1,10 @@
 ---
-title: 4.1 Using Connect
-weight: 70
+title: 5.2 Deploy Markdown reports to Connect
+weight: 160
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_u
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

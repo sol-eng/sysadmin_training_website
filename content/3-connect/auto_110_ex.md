@@ -1,10 +1,10 @@
 ---
-title: 3.1 Exercise
-weight: 95
+title: 3.2 Exercise
+weight: 115
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/install-connect-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/install-connect-exer
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

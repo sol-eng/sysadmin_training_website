@@ -3,21 +3,28 @@
 
 source: https://colorado.rstudio.com/rsc/rstudio-team-sysadmin-cheatsheet/
 
-<div class="learnr-column">
 
-<div class="responsive-container-learnr">
-  <div class="animated-r-wrapper">
+
+
+<div class="responsive-container-rmd">
+  <div class="animated-r-wrapper" style="flex-grow: 0;">
     <div class="animated-r-vertical">
       <div class="animated-r-circle"></div>
     </div>
     <div class="animated-r-diagonal"></div>
-    </div>
-  <iframe 
-    src="https://colorado.rstudio.com/rsc/rstudio-team-sysadmin-cheatsheet/" 
-    class="resp-iframe-learnr" 
-    gesture="media"  allowfullscreen>
-  </iframe>
   </div>
+
+  <iframe id="rmd_cheatsheet"
+    src="https://colorado.rstudio.com/rsc/rstudio-team-sysadmin-cheatsheet/" 
+    gesture="media" scrolling="yes">
+  </iframe>
+  <script>
+    $('#rmd_cheatsheet').on("load", function() {
+      $('.animated-r-wrapper').remove();
+    });
+  </script>
 </div>
+
+
 
 

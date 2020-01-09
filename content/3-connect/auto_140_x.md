@@ -1,10 +1,10 @@
 ---
-title: 6.1 Installing RSPM
-weight: 110
+title: 5.1 Deploy Shiny apps to Connect
+weight: 140
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_in
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

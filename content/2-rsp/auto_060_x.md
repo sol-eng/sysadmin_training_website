@@ -1,10 +1,10 @@
 ---
-title: 5.3 Deploy APIs to Connect
-weight: 100
+title: 2. Authentication and security
+weight: 60
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

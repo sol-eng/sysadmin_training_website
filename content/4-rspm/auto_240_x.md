@@ -1,10 +1,10 @@
 ---
-title: 5.2 Deploy Markdown reports to Connect
-weight: 90
+title: 7.1 Using repositories with RSPM
+weight: 240
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

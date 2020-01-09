@@ -1,6 +1,6 @@
 ---
 title: 4.1 Exercise
-weight: 75
+weight: 135
 tags: ["exercise"]
 ---
 
@@ -27,7 +27,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-connect-exerci
 <!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
 
 

@@ -1,10 +1,10 @@
 ---
-title: 7.2 Using packages from RSPM
-weight: 140
+title: 1.2 Architecture and installation of RSP
+weight: 40
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

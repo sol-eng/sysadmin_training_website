@@ -1,10 +1,10 @@
 ---
-title: 1.2 Exercise
-weight: 35
+title: 5.1 Exercise
+weight: 155
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
@@ -27,7 +27,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp-exercise
 <!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
 
 

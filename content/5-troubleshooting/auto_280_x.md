@@ -1,10 +1,10 @@
 ---
-title: 5.1 Deploy Shiny apps to Connect
-weight: 80
+title: 8. Troubleshooting
+weight: 280
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_de
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

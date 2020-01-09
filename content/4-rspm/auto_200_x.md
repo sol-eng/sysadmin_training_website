@@ -1,10 +1,10 @@
 ---
-title: 1.2 Architecture and installation of RSP
-weight: 30
+title: 6.1 Installing RSPM
+weight: 200
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.h
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm/06_a_install_rspm.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

@@ -1,10 +1,10 @@
 ---
-title: 7.1 Exercise
-weight: 135
+title: 2. Exercise
+weight: 75
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositor
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
@@ -27,7 +27,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositor
 <!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
 
 

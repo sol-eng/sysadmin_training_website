@@ -1,10 +1,10 @@
 ---
-title: 3.1 Install Connect
-weight: 50
+title: 4.1 Using Connect
+weight: 120
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

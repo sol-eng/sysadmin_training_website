@@ -1,14 +1,13 @@
 ---
-title: 2.NA Exercise
-weight: 45
+title: 0. Overview
+weight: 15
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/overview
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<!-- <div class="learnr-column"> -->
 <div class="responsive-container-learnr">
 
   <div class="animated-r-wrapper">
@@ -18,16 +17,15 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercis
     <div class="animated-r-diagonal"></div>
   </div>
 
-  <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/security-rsp-exercise" 
+  <iframe id="rmd_iframe"
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/overview" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
 </div>
-<!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#rmd_iframe')
 </script>
 
 

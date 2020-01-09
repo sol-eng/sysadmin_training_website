@@ -1,10 +1,10 @@
 ---
-title: 0.NA Overview
-weight: 10
+title: 5.3 Deploy APIs to Connect
+weight: 180
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.ht
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

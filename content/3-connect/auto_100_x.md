@@ -1,10 +1,10 @@
 ---
-title: 7.1 Using repositories with RSPM
-weight: 130
+title: 3.2 Configure Connect
+weight: 100
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositor
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

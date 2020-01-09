@@ -1,10 +1,10 @@
 ---
-title: 2.NA Authentication and security
-weight: 40
+title: 3.1 Install Connect
+weight: 80
 tags: ["overview"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html
 
 <div class="xaringan-column">
 <div class="responsive-container-xaringan">
@@ -24,7 +24,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security
 
 
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

@@ -1,10 +1,10 @@
 ---
-title: 3.2 Exercise
-weight: 65
+title: 6.1 Exercise
+weight: 215
 tags: ["exercise"]
 ---
 
-source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-exercise
+source: https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm-exercise
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-ex
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-exercise" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
@@ -27,7 +27,7 @@ source: https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect-ex
 <!-- </div> -->
 
 <script>
-  iFrameResize({ checkOrigin: false, log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
 </script>
 
 
