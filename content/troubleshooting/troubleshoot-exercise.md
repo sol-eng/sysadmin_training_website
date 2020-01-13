@@ -4,7 +4,7 @@ weight: 295
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshooting" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/troubleshooting</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/troubleshoot-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -18,7 +18,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoo
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshooting" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
