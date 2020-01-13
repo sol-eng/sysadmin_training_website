@@ -4,7 +4,7 @@ weight: 25
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/getting-started" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/getting-started</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-r-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/install-r-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -18,7 +18,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/getting-sta
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/getting-started" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-r-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

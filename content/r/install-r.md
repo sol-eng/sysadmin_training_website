@@ -1,10 +1,10 @@
 ---
-title: 1.1 Introduction
+title: 1.1 Installing R
 weight: 10
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-r" target="_blank">pro-admin-training/install-r</a>
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introductio
     <div class="animated-r-diagonal"></div>
   </div>
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/00_introduction.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-r/01_a_install_r.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>

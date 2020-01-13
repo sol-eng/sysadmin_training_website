@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target
     <div class="animated-r-diagonal"></div>
   </div>
   <iframe 
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_install_rsp.html" 
+    src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP/01_b_install_rsp.html" 
         gesture="media"  allow="encrypted-media" allowfullscreen
         scrolling="no">
   </iframe>
