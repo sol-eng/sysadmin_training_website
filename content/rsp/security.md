@@ -1,11 +1,10 @@
 ---
 title: 2. Authentication and security
-weight: 60
+weight: 50
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

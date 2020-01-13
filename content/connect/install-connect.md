@@ -1,11 +1,10 @@
 ---
 title: 3.1 Install Connect
-weight: 80
+weight: 70
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect" target="_blank">pro-admin-training/install-connect</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

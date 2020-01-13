@@ -10,23 +10,43 @@ suppressPackageStartupMessages({
 # Copy content_template directory
 
 local({
-z <- file.copy(
-  list.files("content_template", include.dirs = TRUE, recursive = FALSE, full.names = TRUE),
-  "content", 
-  recursive = TRUE,
-  overwrite = TRUE
+  z <- file.copy(
+    list.files("content_template", include.dirs = TRUE, recursive = FALSE, full.names = TRUE),
+    "content", 
+    recursive = TRUE,
+    overwrite = TRUE
   )
+  
+  rmds <- list.files("content_template", pattern = ".Rmd$", include.dirs = TRUE, recursive = TRUE, full.names = TRUE)
+  
+  
+  rmds %>%
+    gsub("^content_template/", "content/", .) %>%
+    gsub(".Rmd$", ".html", .) %>%
+    file.remove()
+  
+  rmds %>% 
+    gsub("^content_template/", "content/", .) %>% 
+    Sys.setFileTime(Sys.time())
+
 })
 
 source_dat <- "../pro_admin_training/pres/curriculum.csv"
 if (file.exists(source_dat)) {
   local({
-    z <- file.copy(source_dat, "curriculum.csv", overwrite = TRUE)
+    z <- file.copy(source_dat, "static/curriculum.csv", overwrite = TRUE)
   })
 }
 
-dat <- read_csv("curriculum.csv", col_types = cols()) %>%
-  filter(!is.na(rmd_filename)) %>%
+# local({
+#   z <- file.copy("curriculum.csv", "content/curriculum.csv", overwrite = TRUE)
+# })
+
+dat <- read_csv("static/curriculum.csv", col_types = cols()) %>%
+  filter(
+    !is.na(rmd_filename),
+    Session > 0
+    ) %>%
   mutate(
     weight = 10 * seq_len(n()),
     id = tolower(gsub(" ", "_", Topic)),

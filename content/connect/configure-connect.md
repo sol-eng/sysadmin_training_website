@@ -1,11 +1,10 @@
 ---
 title: 3.2 Configure Connect
-weight: 100
+weight: 90
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect" target="_blank">pro-admin-training/configure-connect</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

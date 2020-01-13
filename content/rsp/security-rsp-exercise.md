@@ -1,6 +1,6 @@
 ---
 title: 2. Exercise
-weight: 75
+weight: 65
 tags: ["exercise"]
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: 6.1 Installing RSPM
-weight: 200
+weight: 190
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm" target="_blank">pro-admin-training/install-rspm</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

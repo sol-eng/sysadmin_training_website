@@ -1,11 +1,10 @@
 ---
 title: 7.1 Using repositories with RSPM
-weight: 240
+weight: 230
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" target="_blank">pro-admin-training/using-rspm-repositories</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

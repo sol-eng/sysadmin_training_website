@@ -1,11 +1,10 @@
 ---
 title: 6.2 Configuring RSPM
-weight: 220
+weight: 210
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm" target="_blank">pro-admin-training/configure-rspm</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

@@ -52,7 +52,7 @@ unsafe = true
 
     # Documentation Menu section
     # Menu style settings
-    menu_style = "slide-menu" # "open-menu" or "slide-menu"
+    menu_style = "open-menu" # "open-menu" or "slide-menu"
 
     # Date format
     dateformat = "2020-01-01" # default "2 Jan 2006"
@@ -75,17 +75,17 @@ unsafe = true
 [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 10
 
 [[menu.main]]
     name = "Curriculum"
-    url = "/overview/overview"
-    weight = 2
+    url = "/overview/curriculum"
+    weight = 20
 
 [[menu.main]]
     name = "Cheat sheet"
     url = "/cheatsheet"
-    weight = 3
+    weight = 30
 
 
 [taxonomies]

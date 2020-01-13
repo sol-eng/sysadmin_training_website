@@ -1,6 +1,6 @@
 ---
 title: 5.2 Exercise
-weight: 175
+weight: 165
 tags: ["exercise"]
 ---
 

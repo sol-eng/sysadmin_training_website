@@ -1,11 +1,10 @@
 ---
 title: 5.3 Deploy APIs to Connect
-weight: 180
+weight: 170
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" target="_blank">pro-admin-training/deploy-plumber</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

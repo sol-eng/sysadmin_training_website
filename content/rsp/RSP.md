@@ -1,11 +1,10 @@
 ---
 title: 1.2 Architecture and installation of RSP
-weight: 40
+weight: 30
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target="_blank">pro-admin-training/RSP</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

@@ -1,11 +1,10 @@
 ---
 title: 8. Troubleshooting
-weight: 280
+weight: 270
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" target="_blank">pro-admin-training/troubleshoot</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

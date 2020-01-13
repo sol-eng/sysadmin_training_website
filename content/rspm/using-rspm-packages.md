@@ -1,11 +1,10 @@
 ---
 title: 7.2 Using packages from RSPM
-weight: 260
+weight: 250
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages" target="_blank">pro-admin-training/using-rspm-packages</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">

@@ -1,5 +1,11 @@
 ---
 title: Overview
-weight: 10
+weight: 5
 tags: ["overview"]
 ---
+
+
+* Coarse goals
+* Assumptions
+* How it works
+* Curriculum

@@ -1,11 +1,10 @@
 ---
 title: 5.1 Deploy Shiny apps to Connect
-weight: 140
+weight: 130
 tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" target="_blank">pro-admin-training/deploy-shiny</a>
-
 <!-- <div class="xaringan-column"> -->
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">
