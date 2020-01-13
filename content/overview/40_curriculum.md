@@ -5,7 +5,7 @@ tags: ["overview"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>
-<!-- <div class="xaringan-column"> -->
+<div class="xaringan-column">
 <div class="responsive-container-xaringan">
   <div class="animated-r-wrapper">
     <div class="animated-r-vertical">
@@ -19,7 +19,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introductio
         scrolling="no">
   </iframe>
 </div>
-<!-- </div> -->
+</div>
 
 
 To view the presentation in full screen, click into the presentation then press "f" on your keyboard.

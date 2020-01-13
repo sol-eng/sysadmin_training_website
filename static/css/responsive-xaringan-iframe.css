@@ -7,7 +7,13 @@ html, body {
 main {
   display:flex; 
   flex-direction:column;
-  padding: 0.25em 0.5em;
+  /* padding: 0.25em 0.5em; */
+  overflow-y: scroll;
+  max-height: calc(100vh - 131px);
+}
+
+.sidebar {
+  max-height: calc(100vh - 131px);
 }
 
 img {
@@ -34,34 +40,34 @@ h1 {
   line-height: 1;
 }  
 
-/* .xaringan-column {
+.xaringan-column {
   max-width: 1024px;
-} */  
+}
 
 /* Iframe */
 .responsive-container-xaringan {
-  /* flex-grow: 1;
-  flex-shrink: 0; */
-  height: 0; 
+  /* flex-grow: 1; */
+  /* flex-shrink: 0; */
+  /* height: 0;  */
   padding-top: 56.25%;
   position: relative;
-  /* display:flex;  */
-  /* flex-direction:column; */
-  overflow: hidden;
-  max-width: 1024px;
+  /* display:flex; 
+  flex-direction:column;
+  overflow: hidden; */
+  width: 100%;
 }  
 
 
 .responsive-container-xaringan iframe {
   position: absolute;
-  /* min-height: 170px; */
+  min-height: 170px;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   border: 0;
-  flex-grow: 1;
-  flex-shrink: 0;
+  /* flex-grow: 1; */
+  /* flex-shrink: 0; */
   z-index: 100;
 }  
 

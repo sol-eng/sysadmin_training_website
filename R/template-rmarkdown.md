@@ -8,7 +8,7 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
-<div class="responsive-container-learnr">
+<div class="responsive-container-rmarkdown">
 
   <div class="animated-r-wrapper">
     <div class="animated-r-vertical">
@@ -24,9 +24,9 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
   </iframe>
 </div>
 
-<script>
+<!-- <script>
   iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#rmd_iframe')
-</script>
+</script> -->
 
 
 
