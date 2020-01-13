@@ -18,14 +18,14 @@ z <- file.copy(
   )
 })
 
-source_dat <- "../pro_admin_training/pres/curriculum-2.csv"
+source_dat <- "../pro_admin_training/pres/curriculum.csv"
 if (file.exists(source_dat)) {
   local({
-    z <- file.copy(source_dat, "curriculum-2.csv", overwrite = TRUE)
+    z <- file.copy(source_dat, "curriculum.csv", overwrite = TRUE)
   })
 }
 
-dat <- read_csv("curriculum-2.csv", col_types = cols()) %>%
+dat <- read_csv("curriculum.csv", col_types = cols()) %>%
   filter(!is.na(rmd_filename)) %>%
   mutate(
     weight = 10 * seq_len(n()),
