@@ -27,7 +27,7 @@ unsafe = true
 
     # Souce Code repository section
     description = "Introduction to system administration for RStudio Team"
-    github_repository = "https://github.com/thingsym/hugo-theme-techdochttps://github.com/sol-eng/sysadmin_training_website"
+    github_repository = "https://github.com/sol-eng/sysadmin_training_website"
     version = "0.0.1"
 
     # Documentation repository section
@@ -41,7 +41,8 @@ unsafe = true
 
     # Open Graph and Twitter Cards settings section
     title = "RStudio Team sys-admin training"
-    images = ["og-image.png"]
+    logo = "RStudio-Logo-White-small.png"
+    images = ["RStudio-Logo-White.png"]
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
 
@@ -52,7 +53,7 @@ unsafe = true
 
     # Documentation Menu section
     # Menu style settings
-    menu_style = "open-menu" # "open-menu" or "slide-menu"
+    menu_style = "slide-menu" # "open-menu" or "slide-menu"
 
     # Date format
     dateformat = "2020-01-01" # default "2 Jan 2006"
@@ -68,7 +69,8 @@ unsafe = true
     custom_css = [
         "css/responsive-xaringan-iframe.css", 
         "css/css-loader.css",
-        "css/animated-r.css"
+        "css/animated-r.css",
+        "css/site.css"
     ]
 
 # Global menu section

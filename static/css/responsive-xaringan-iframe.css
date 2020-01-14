@@ -1,45 +1,4 @@
 
-html, body {
-  margin: 0;
-  height: 100%;             /* need for iframe height 100% to work */
-}
-
-main {
-  display:flex; 
-  flex-direction:column;
-  /* padding: 0.25em 0.5em; */
-  overflow-y: scroll;
-  max-height: calc(100vh - 131px);
-}
-
-.sidebar {
-  max-height: calc(100vh - 131px);
-}
-
-img {
-  height: auto;
-  display: block;
-  margin: auto;
-  /* width: 50%;
-  flex-grow: 0;
-  display: inline-flex; */
-}
-
-p {
-  line-height: 1.25em;
-  padding: 0;
-  margin: 0;
-}
-
-li {
-  line-height: 1.25em;
-}
-
-h1 {
-  font-size: 150%;
-  line-height: 1;
-}  
-
 .xaringan-column {
   max-width: 1024px;
 }
