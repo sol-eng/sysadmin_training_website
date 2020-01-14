@@ -3,6 +3,7 @@ title: Curriculum
 weight: 40
 tags: ["overview"]
 ---
+<!-- note: this file is made by hand and doesn't use the template-xaringan.md -->
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>
 <div class="xaringan-column">
