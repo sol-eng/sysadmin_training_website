@@ -1,5 +1,5 @@
 ---
-title: 5.2 Deploy Markdown reports to Connect
+title: 5.2 Deploy Markdown reports
 weight: 150
 tags: ["overview"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: 5.3 Deploy APIs to Connect
+title: 5.3 Deploy APIs
 weight: 170
 tags: ["overview"]
 ---

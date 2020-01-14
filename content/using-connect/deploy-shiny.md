@@ -1,5 +1,5 @@
 ---
-title: 5.1 Deploy Shiny apps to Connect
+title: 5.1 Deploy Shiny apps
 weight: 130
 tags: ["overview"]
 ---

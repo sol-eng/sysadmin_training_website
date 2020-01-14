@@ -1,0 +1,10 @@
+
+{{- define "main" -}}
+<div class="main-bg-sanfran">
+    <h1>{{ .Title }}</h1>
+    {{- partial "table-of-contents.html" . -}}
+    {{- .Content -}}
+</div>
+{{- partial "edit-meta.html" . -}}
+{{- partial "pagination.html" . -}}
+{{- end -}}
