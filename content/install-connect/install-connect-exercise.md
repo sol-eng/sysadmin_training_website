@@ -25,7 +25,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-con
 </div>
 
 <script>
-  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: false }, '#learnr_iframe')
 </script>
 
 

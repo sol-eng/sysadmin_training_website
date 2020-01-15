@@ -61,9 +61,7 @@ unsafe = true
 
     # path name excluded from documentation menu
     menu_exclusion = [
-        "sample",
-        "blogs",
-        "posts"
+        "cheatsheet"
     ]
 
     custom_css = [
@@ -71,6 +69,10 @@ unsafe = true
         "css/css-loader.css",
         "css/animated-r.css",
         "css/site.css"
+    ]
+
+    custom_js_after_body = [
+        "js/custom.js"
     ]
 
 # Global menu section

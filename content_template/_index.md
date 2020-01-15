@@ -1,6 +1,6 @@
 ---
 layout: sanfran
 ---
-# Welcome to the RStudio Team sys-admin training
+# Welcome to RStudio Team admin training
 
 <!-- <img src="/images/san-francisco.jfif"> -->

@@ -25,7 +25,7 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
 </div>
 
 <script>
-  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: true }, '#learnr_iframe')
+  iFrameResize({ checkOrigin: 'https://colorado.rstudio.com/rsc/' , log: false }, '#learnr_iframe')
 </script>
 
 

@@ -1,0 +1,21 @@
+{{- define "main" -}}
+<div class="main-container list">
+    <h1>{{ .Title }}</h1>
+    {{- .Content -}}
+
+    <div class="content-list">
+    Contents: 
+
+        <ul>
+            <!-- Ranges through content/posts/*.md -->
+            {{ range .Pages }}
+                <li>
+                    <a href="{{.Permalink}}"> {{.Title}}</a>
+                </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{- partial "edit-meta.html" . -}}
+    {{- partial "pagination.html" . -}}
+</div>
+{{- end -}}

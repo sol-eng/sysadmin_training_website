@@ -1,10 +1,9 @@
-# Cheat sheet
-
+---
+title: Cheat sheet
+layout: single
+---
 
 source: https://colorado.rstudio.com/rsc/rstudio-team-sysadmin-cheatsheet/
-
-
-
 
 <div class="responsive-container-rmd">
   <div class="animated-r-wrapper" style="flex-grow: 0;">

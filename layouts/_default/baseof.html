@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{{ with .Site.LanguageCode }}<html lang="{{ . }}">{{ else }}<html>{{ end }}
+<head>
+{{- partial "head.html" . -}}
+{{- partial "custom-head.html" . -}}
+</head>
+<body>
+{{ range .Site.Params.custom_js -}}
+    <script src="{{ . | absURL }}"></script>
+{{- end }}
+
+{{- partial "prepend-body.html" . -}}
+<div class="container">
+{{- partial "notification.html" . -}}
+{{- partial "site-header.html" . -}}
+{{- partial "global-menu.html" . -}}
+<div class="content-container">
+<main>
+{{- block "main" . -}}{{- end -}}
+<footer>
+{{- partial "content-footer.html" . -}}
+{{- partial "powered.html" . -}}
+</footer>
+</main>
+
+{{- partial "sidebar.html" . -}}
+</div>
+{{- partial "footer.html" . -}}
+</div>
+</body>
+
+<!-- Added by adv -->
+{{ range .Site.Params.custom_js_after_body -}}
+    <script src="{{ . | absURL }}"></script>
+{{- end }}
+<!-- end of addition by adv -->
+
+</html>

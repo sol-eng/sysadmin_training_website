@@ -1,7 +1,7 @@
 ---
 title: Install R
 weight: 20
-tags: ["overview"]
+# layout: list
 ---
 
-# Installing R
+
