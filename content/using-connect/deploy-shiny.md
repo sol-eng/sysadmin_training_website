@@ -1,6 +1,6 @@
 ---
 title: 5.1 Deploy Shiny apps
-weight: 130
+weight: 150
 tags: ["overview"]
 ---
 

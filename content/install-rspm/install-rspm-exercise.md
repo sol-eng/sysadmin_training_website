@@ -1,6 +1,6 @@
 ---
 title: 6.1 Exercise
-weight: 205
+weight: 225
 tags: ["exercise"]
 ---
 

@@ -7,6 +7,11 @@ suppressPackageStartupMessages({
   library(glue)
 })
 
+# Delete public and content
+
+unlink("public", recursive = TRUE, force = TRUE)
+unlink("content", recursive = TRUE, force = TRUE)
+
 # Copy content_template directory
 
 local({
@@ -18,7 +23,6 @@ local({
   )
   
   rmds <- list.files("content_template", pattern = ".Rmd$", include.dirs = TRUE, recursive = TRUE, full.names = TRUE)
-  
   
   rmds %>%
     gsub("^content_template/", "content/", .) %>%

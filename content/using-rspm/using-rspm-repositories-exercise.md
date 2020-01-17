@@ -1,6 +1,6 @@
 ---
 title: 7.1 Exercise
-weight: 245
+weight: 265
 tags: ["exercise"]
 ---
 

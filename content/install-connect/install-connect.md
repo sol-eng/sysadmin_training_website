@@ -1,6 +1,6 @@
 ---
 title: 3.1 Install Connect
-weight: 70
+weight: 90
 tags: ["overview"]
 ---
 

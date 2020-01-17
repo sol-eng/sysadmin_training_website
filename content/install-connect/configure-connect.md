@@ -1,6 +1,6 @@
 ---
 title: 3.2 Configure Connect
-weight: 90
+weight: 110
 tags: ["overview"]
 ---
 

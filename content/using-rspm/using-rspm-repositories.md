@@ -1,6 +1,6 @@
 ---
 title: 7.1 Using repositories with RSPM
-weight: 230
+weight: 250
 tags: ["overview"]
 ---
 

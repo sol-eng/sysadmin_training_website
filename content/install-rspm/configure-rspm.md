@@ -1,6 +1,6 @@
 ---
 title: 6.2 Configuring RSPM
-weight: 210
+weight: 230
 tags: ["overview"]
 ---
 

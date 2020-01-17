@@ -1,6 +1,6 @@
 ---
 title: 7.2 Using packages from RSPM
-weight: 250
+weight: 270
 tags: ["overview"]
 ---
 

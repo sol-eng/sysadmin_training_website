@@ -37,3 +37,11 @@ Customized `techdocs` theme:
 * `layouts/edit-page.html` is blanked out, to remove the "edit on github" link
 * `layouts/head.html` adds a loop to include custom css in `static/css/*.css`
 * `layout/powered.html` is blanked out, to remove the "powered by ... "
+
+Ideas for fontawesome icons:
+
+
+* Work in progress <i class="fas fa-tools"></i>, 
+* Something new <i class="fas fa-star"></i>
+* Optional <i class="far fa-question-circle"></i>
+* Exercise <i class="fas fa-dumbbell"></i>

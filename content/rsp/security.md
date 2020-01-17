@@ -1,6 +1,6 @@
 ---
-title: 2. Authentication and security
-weight: 50
+title: 2.2 Authentication and security
+weight: 70
 tags: ["overview"]
 ---
 
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" t
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_security.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_b_security.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

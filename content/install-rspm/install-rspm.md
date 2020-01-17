@@ -1,6 +1,6 @@
 ---
 title: 6.1 Installing RSPM
-weight: 190
+weight: 210
 tags: ["overview"]
 ---
 

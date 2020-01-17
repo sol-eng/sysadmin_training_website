@@ -1,6 +1,6 @@
 ---
-title: 1.1 Installing R
-weight: 10
+title: 1.2 Installing R
+weight: 30
 tags: ["overview"]
 ---
 
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-r" 
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/install-r/01_a_install_r.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/install-r/01_b_install_r.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

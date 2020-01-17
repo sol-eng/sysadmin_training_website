@@ -1,6 +1,6 @@
 ---
 title: 8. Exercise
-weight: 285
+weight: 305
 tags: ["exercise"]
 ---
 
