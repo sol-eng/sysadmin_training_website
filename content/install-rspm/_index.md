@@ -1,5 +1,4 @@
 ---
-title: Installing RSPM
-weight: 50 
-# layout: single
+Title: Installing RStudio Package Manager
+Weight: 60
 ---

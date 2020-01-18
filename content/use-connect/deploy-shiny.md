@@ -1,10 +1,10 @@
 ---
-title: 5.3 Deploy APIs
-weight: 190
+title: 5.1 Deploying Shiny Apps
+weight: 150
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" target="_blank">pro-admin-training/deploy-plumber</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" target="_blank">pro-admin-training/deploy-shiny</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plum
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

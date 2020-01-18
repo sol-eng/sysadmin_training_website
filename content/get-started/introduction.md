@@ -1,10 +1,10 @@
 ---
-title: 2.2 Authentication and security
-weight: 70
+title: 1.1 Getting started
+weight: 10
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" t
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_b_security.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/01_a_how_it_works.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

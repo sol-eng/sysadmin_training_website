@@ -1,5 +1,4 @@
 ---
-title: Installing Connect
-weight: 40
-# layout: single
+Title: Installing RStudio Connect
+Weight: 40
 ---

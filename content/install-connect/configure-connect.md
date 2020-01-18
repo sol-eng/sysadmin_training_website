@@ -1,5 +1,5 @@
 ---
-title: 3.2 Configure Connect
+title: 3.2 Configure RStudio Connect
 weight: 110
 tags: ["overview"]
 ---

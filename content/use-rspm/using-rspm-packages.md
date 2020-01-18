@@ -1,10 +1,10 @@
 ---
-title: 7.1 Using repositories with RSPM
-weight: 250
+title: 7.2 Using Packages from RStudio Package Manager
+weight: 270
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" target="_blank">pro-admin-training/using-rspm-repositories</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages" target="_blank">pro-admin-training/using-rspm-packages</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages/07_b_using_rspm_packages.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

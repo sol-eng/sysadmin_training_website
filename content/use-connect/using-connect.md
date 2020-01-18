@@ -1,10 +1,10 @@
 ---
-title: 1.1 Introduction
-weight: 10
+title: 4.1 Using RStudio Connect
+weight: 130
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" target="_blank">pro-admin-training/using-connect</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introductio
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/01_a_how_it_works.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

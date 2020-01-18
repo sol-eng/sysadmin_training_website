@@ -1,10 +1,10 @@
 ---
-title: 5.1 Deploy Shiny apps
-weight: 150
+title: 2.2 Authenticating
+weight: 70
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" target="_blank">pro-admin-training/deploy-shiny</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shin
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_b_security.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>
