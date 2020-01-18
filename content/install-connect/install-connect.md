@@ -1,5 +1,5 @@
 ---
-title: 3.1 Install Connect
+title: 3.1 Installing RStudio Connect
 weight: 90
 tags: ["overview"]
 ---

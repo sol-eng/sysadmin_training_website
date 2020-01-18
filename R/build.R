@@ -5,14 +5,54 @@ suppressPackageStartupMessages({
   library(dplyr)
   library(readr)
   library(glue)
+  library(purrr)
 })
 
-# Delete public and content
+# Delete public and content folders ---------------------------------------
 
 unlink("public", recursive = TRUE, force = TRUE)
 unlink("content", recursive = TRUE, force = TRUE)
 
-# Copy content_template directory
+# read curriculum file ----------------------------------------------------
+
+source_dat <- "../pro_admin_training/pres/curriculum.csv"
+if (file.exists(source_dat)) {
+  local({
+    z <- file.copy(source_dat, "static/curriculum.csv", overwrite = TRUE)
+  })
+}
+
+dat <- read_csv("static/curriculum.csv", col_types = cols()) %>%
+  filter(
+    !is.na(rmd_filename),
+    Session > 0
+    ) %>%
+  mutate(
+    weight = 10 * seq_len(n()),
+    id = tolower(gsub(" ", "_", Topic)),
+    rmd_url = gsub(".Rmd$", ".html", rmd_filename),
+    Product = tolower(Product),
+    ## match(hugo_chapter, unique(hugo_chapter)) - 1,
+    hugo_section = hugo_section %>% tolower() %>% gsub(" ", "-", .),
+    hugo_session = if_else(
+      !is.na(Subsession), 
+      paste(Session, Subsession, sep = "."), 
+      paste0(Session, ".")
+    )
+  )
+
+
+# create content and folders ----------------------------------------------
+
+# dir.create("content")
+dat %>% 
+  pluck("hugo_section") %>% 
+  unique() %>% 
+  paste0("content/", .) %>% 
+  purrr::walk(dir.create)
+
+
+# Copy content_template directory -----------------------------------------
 
 local({
   z <- file.copy(
@@ -35,43 +75,16 @@ local({
 
 })
 
-source_dat <- "../pro_admin_training/pres/curriculum.csv"
-if (file.exists(source_dat)) {
-  local({
-    z <- file.copy(source_dat, "static/curriculum.csv", overwrite = TRUE)
-  })
-}
 
-# local({
-#   z <- file.copy("curriculum.csv", "content/curriculum.csv", overwrite = TRUE)
-# })
+# create content from templates -------------------------------------------
 
-dat <- read_csv("static/curriculum.csv", col_types = cols()) %>%
-  filter(
-    !is.na(rmd_filename),
-    Session > 0
-    ) %>%
-  mutate(
-    weight = 10 * seq_len(n()),
-    id = tolower(gsub(" ", "_", Topic)),
-    rmd_url = gsub(".Rmd$", ".html", rmd_filename),
-    Product = tolower(Product),
-    ## match(hugo_chapter, unique(hugo_chapter)) - 1,
-    hugo_chapter = hugo_chapter %>% tolower() %>% gsub(" ", "-", .),
-    hugo_session = if_else(
-      !is.na(Subsession), 
-      paste(Session, Subsession, sep = "."), 
-      paste0(Session, ".")
-    )
-  )
-
-# View(dat)
 
 template_r <- readLines("R/template-rmarkdown.md") %>% paste(collapse = "\n")
 template_x <- readLines("R/template-xaringan.md") %>% paste(collapse = "\n")
 template_l <- readLines("R/template-learnr.md") %>% paste(collapse = "\n")
 
 i <- 1
+
 
 for (i in seq_len(nrow(dat))) {
   out_file <- paste0(basename(dat$vanity_url[i]), ".md")
@@ -82,9 +95,25 @@ for (i in seq_len(nrow(dat))) {
     learnr    = template_l
   )
   new <- glue_data(dat[i, ], template, .open = "{{", .close = "}}")
-  dir <- glue_data(dat[i, ], "content/{hugo_chapter}")
-  if (!dir.exists(dir)) dir.create(dir)
-  writeLines(new, sprintf("content/%s/%s", dat$hugo_chapter[i],  out_file))
-  
-  
+  dir <- glue_data(dat[i, ], "content/{hugo_section}")
+  new_filename <- sprintf("content/%s/%s", dat$hugo_section[i],  out_file)
+  writeLines(new, new_filename)
+}
+
+
+# create _index.md files in content folder --------------------------------
+
+sections <- 
+  dat %>% 
+  select(starts_with("hugo")) %>% 
+  dplyr::distinct(hugo_section, .keep_all = TRUE) %>% 
+  mutate(weight = 1:n() * 10)
+
+template <- readLines("R/template-index.yml") %>% paste(collapse = "\n")
+
+for (i in seq_len(nrow(sections))) {
+  new <- glue_data(sections[i, ], template, .open = "{{", .close = "}}")
+  dir <- glue_data(sections[i, ], "content/{hugo_section}")
+  new_filename <- sprintf("content/%s/%s", sections$hugo_section[i],  "_index.md")
+  writeLines(new, new_filename)
 }

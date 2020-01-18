@@ -1,5 +1,5 @@
 ---
-title: 6.2 Configuring RSPM
+title: 6.2 Configuring RStudio Package Manager
 weight: 230
 tags: ["overview"]
 ---

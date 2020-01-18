@@ -1,5 +1,5 @@
 ---
-title: {{hugo_session}} {{Topic}}
+title: {{hugo_session}} {{hugo_chapter_title}}
 weight: {{weight}}
 tags: ["overview"]
 ---

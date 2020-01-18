@@ -1,5 +1,5 @@
 ---
-title: 6.1 Installing RSPM
+title: 6.1 Installing RStudio Package Manager
 weight: 210
 tags: ["overview"]
 ---

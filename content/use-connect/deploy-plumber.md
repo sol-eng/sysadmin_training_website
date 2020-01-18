@@ -1,10 +1,10 @@
 ---
-title: 5.2 Deploy Markdown reports
-weight: 170
+title: 5.3 Deploying APIs
+weight: 190
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown" target="_blank">pro-admin-training/deploy-markdown</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" target="_blank">pro-admin-training/deploy-plumber</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-mark
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

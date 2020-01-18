@@ -1,10 +1,10 @@
 ---
-title: 4.1 Using Connect
-weight: 130
+title: 2.1 Installing RStudio Server Pro
+weight: 50
 tags: ["overview"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" target="_blank">pro-admin-training/using-connect</a>
+source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target="_blank">pro-admin-training/RSP</a>
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-conne
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP/02_a_install_rsp.html" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>
