@@ -1,5 +1,5 @@
 ---
-title: 8. Troubleshooting
+title: 9.1 Troubleshooting
 weight: 290
 tags: ["overview"]
 ---
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoo
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot/08_troubleshoot.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

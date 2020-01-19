@@ -1,5 +1,5 @@
 ---
-title: 2.2 Authenticating
+title: 3.2 Authenticating
 weight: 70
 tags: ["overview"]
 ---
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" t
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/security/02_b_security.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/security" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

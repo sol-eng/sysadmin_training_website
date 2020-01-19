@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introductio
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction/01_a_how_it_works.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories/07_a_using_rspm_repositories.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

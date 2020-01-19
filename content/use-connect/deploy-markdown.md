@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-mark
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown/05_b_deploy_markdown.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

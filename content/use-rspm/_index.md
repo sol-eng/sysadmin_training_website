@@ -1,4 +1,4 @@
 ---
-Title: Using Repositories with RStudio Package Manager
+Title: Using RStudio Package Manager
 Weight: 70
 ---

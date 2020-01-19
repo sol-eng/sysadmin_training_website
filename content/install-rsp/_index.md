@@ -1,4 +1,4 @@
 ---
-Title: Installing RStudio Server Pro
+Title: RStudio Server Pro
 Weight: 30
 ---

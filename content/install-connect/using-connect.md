@@ -1,5 +1,5 @@
 ---
-title: 4.1 Using RStudio Connect
+title: 4.3 Understanding Connect deployment
 weight: 130
 tags: ["overview"]
 ---
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-conne
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect/04_a_using_connect.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

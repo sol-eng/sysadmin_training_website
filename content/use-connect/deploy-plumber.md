@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plum
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber/05_c_deploy_plumber.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

@@ -1,5 +1,5 @@
 ---
-title: 2.1 Installing RStudio Server Pro
+title: 3.1 Installing RStudio Server Pro
 weight: 50
 tags: ["overview"]
 ---
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP/02_a_install_rsp.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

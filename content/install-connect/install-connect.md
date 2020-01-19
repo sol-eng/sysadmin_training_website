@@ -1,5 +1,5 @@
 ---
-title: 3.1 Installing RStudio Connect
+title: 4.1 Installing RStudio Connect
 weight: 90
 tags: ["overview"]
 ---
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-con
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect/03_a_install_connect.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

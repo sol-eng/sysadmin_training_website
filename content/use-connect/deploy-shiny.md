@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shin
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny/05_a_deploy_shiny.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

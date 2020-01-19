@@ -1,5 +1,5 @@
 ---
-title: 3.2 Configure RStudio Connect
+title: 4.2 Configure RStudio Connect
 weight: 110
 tags: ["overview"]
 ---
@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-c
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect/03_b_configure_connect.html" 
+      src="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>
