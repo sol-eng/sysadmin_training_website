@@ -14,7 +14,7 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/{{vanity_url}}/{{rmd_url}}" 
+      src="https://colorado.rstudio.com/rsc/{{vanity_url}}" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

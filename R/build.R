@@ -44,7 +44,7 @@ dat <- read_csv("static/curriculum.csv", col_types = cols()) %>%
 
 # create content and folders ----------------------------------------------
 
-# dir.create("content")
+dir.create("content")
 dat %>% 
   pluck("hugo_section") %>% 
   unique() %>% 
