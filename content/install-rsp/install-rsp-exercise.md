@@ -1,5 +1,6 @@
 ---
 title: 3.1 Exercise
+description: RSP config, enterprise architecture, install multiple R
 weight: 65
 tags: ["exercise"]
 ---

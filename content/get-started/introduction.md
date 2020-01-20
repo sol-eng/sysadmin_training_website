@@ -1,7 +1,8 @@
 ---
 title: 1.1 Getting started
+description: Welcome
 weight: 10
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>

@@ -1,5 +1,6 @@
 ---
 title: 6.1 Exercise
+description: Installing RStudio Package Manager
 weight: 225
 tags: ["exercise"]
 ---

@@ -1,7 +1,8 @@
 ---
 title: 2.1 Installing R
+description: Install R
 weight: 30
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-r" target="_blank">pro-admin-training/install-r</a>

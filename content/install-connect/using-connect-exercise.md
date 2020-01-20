@@ -1,5 +1,6 @@
 ---
 title: 4.3 Exercise
+description: Deployment, bundles
 weight: 145
 tags: ["exercise"]
 ---

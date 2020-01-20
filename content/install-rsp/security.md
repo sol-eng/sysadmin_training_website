@@ -1,7 +1,8 @@
 ---
 title: 3.2 Authenticating
+description: Security, configure RSP with LDAP
 weight: 70
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a>

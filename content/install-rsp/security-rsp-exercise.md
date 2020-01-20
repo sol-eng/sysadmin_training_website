@@ -1,5 +1,6 @@
 ---
 title: 3.2 Exercise
+description: Security, configure RSP with LDAP
 weight: 85
 tags: ["exercise"]
 ---

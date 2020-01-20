@@ -1,7 +1,8 @@
 ---
 title: 9.1 Troubleshooting
+description: Troubleshooting, open source R, licensing, authentication, working with support, environment variables
 weight: 290
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" target="_blank">pro-admin-training/troubleshoot</a>

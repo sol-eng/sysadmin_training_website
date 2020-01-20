@@ -1,7 +1,8 @@
 ---
 title: 7.2 Using Packages from RStudio Package Manager
+description: Using packages from RStudio Package Manager
 weight: 270
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages" target="_blank">pro-admin-training/using-rspm-packages</a>

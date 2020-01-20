@@ -1,7 +1,8 @@
 ---
 title: 4.3 Understanding Connect deployment
+description: Deployment, bundles
 weight: 130
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" target="_blank">pro-admin-training/using-connect</a>

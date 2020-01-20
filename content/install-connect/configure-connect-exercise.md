@@ -1,5 +1,6 @@
 ---
 title: 4.2 Exercise
+description: Configure email and security
 weight: 125
 tags: ["exercise"]
 ---

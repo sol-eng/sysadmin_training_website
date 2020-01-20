@@ -1,7 +1,8 @@
 ---
 title: 6.1 Installing RStudio Package Manager
+description: Installing RStudio Package Manager
 weight: 210
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm" target="_blank">pro-admin-training/install-rspm</a>

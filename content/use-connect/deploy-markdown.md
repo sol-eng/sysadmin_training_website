@@ -1,7 +1,8 @@
 ---
 title: 5.2 Deploying Reports
+description: RStudio Connect
 weight: 170
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown" target="_blank">pro-admin-training/deploy-markdown</a>

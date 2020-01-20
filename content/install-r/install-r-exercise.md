@@ -1,5 +1,6 @@
 ---
 title: 2.1 Exercise
+description: Install R
 weight: 45
 tags: ["exercise"]
 ---

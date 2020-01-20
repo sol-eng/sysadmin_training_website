@@ -1,5 +1,6 @@
 ---
 title: 1.1 Exercise
+description: SSH in
 weight: 25
 tags: ["exercise"]
 ---

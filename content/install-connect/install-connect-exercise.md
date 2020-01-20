@@ -1,5 +1,6 @@
 ---
 title: 4.1 Exercise
+description: Install Connect
 weight: 105
 tags: ["exercise"]
 ---

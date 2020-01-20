@@ -1,7 +1,8 @@
 ---
 title: 5.1 Deploying Shiny Apps
+description: RStudio Connect
 weight: 150
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" target="_blank">pro-admin-training/deploy-shiny</a>

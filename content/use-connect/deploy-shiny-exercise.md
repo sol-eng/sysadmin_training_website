@@ -1,5 +1,6 @@
 ---
 title: 5.1 Exercise
+description: RStudio Connect
 weight: 165
 tags: ["exercise"]
 ---

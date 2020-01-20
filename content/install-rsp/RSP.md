@@ -1,7 +1,8 @@
 ---
 title: 3.1 Installing RStudio Server Pro
+description: RSP config, enterprise architecture, install multiple R
 weight: 50
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target="_blank">pro-admin-training/RSP</a>

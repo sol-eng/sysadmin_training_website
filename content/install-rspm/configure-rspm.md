@@ -1,7 +1,8 @@
 ---
 title: 6.2 Configuring RStudio Package Manager
+description: Configuring RStudio Package Manager
 weight: 230
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm" target="_blank">pro-admin-training/configure-rspm</a>

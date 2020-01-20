@@ -1,5 +1,6 @@
 ---
 title: 9.1 Exercise
+description: Troubleshooting, open source R, licensing, authentication, working with support, environment variables
 weight: 305
 tags: ["exercise"]
 ---

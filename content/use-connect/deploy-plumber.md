@@ -1,7 +1,8 @@
 ---
 title: 5.3 Deploying APIs
+description: RStudio Connect
 weight: 190
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" target="_blank">pro-admin-training/deploy-plumber</a>

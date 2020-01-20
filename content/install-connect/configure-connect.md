@@ -1,7 +1,8 @@
 ---
 title: 4.2 Configure RStudio Connect
+description: Configure email and security
 weight: 110
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect" target="_blank">pro-admin-training/configure-connect</a>
