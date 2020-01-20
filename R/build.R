@@ -10,8 +10,10 @@ suppressPackageStartupMessages({
 
 # Delete public and content folders ---------------------------------------
 
-unlink("public", recursive = TRUE, force = TRUE)
+unlink("public",  recursive = TRUE, force = TRUE)
 unlink("content", recursive = TRUE, force = TRUE)
+dir.create("content")
+dir.create("public")
 
 # read curriculum file ----------------------------------------------------
 
@@ -44,7 +46,6 @@ dat <- read_csv("static/curriculum.csv", col_types = cols()) %>%
 
 # create content and folders ----------------------------------------------
 
-dir.create("content")
 dat %>% 
   pluck("hugo_section") %>% 
   unique() %>% 
