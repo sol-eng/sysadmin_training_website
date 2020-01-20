@@ -1,7 +1,8 @@
 ---
 title: {{hugo_session}} {{Topic}}
+description: {{Contents}}
 weight: {{weight + 5}}
-tags: ["exercise"]
+tags: 
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a>

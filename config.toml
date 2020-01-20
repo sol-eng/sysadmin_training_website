@@ -42,7 +42,7 @@ unsafe = true
     # Open Graph and Twitter Cards settings section
     title = "RStudio Team admin training"
     logo = "RStudio-Logo-White-small.png"
-    images = ["RStudio-Logo-White.png"]
+    images = ["https://rstudio-cdn.s3.amazonaws.com/pro-admin/pres/images/00/7-rspm.png"]
     # See https://gohugo.io/templates/internal/#open-graph
     # See https://gohugo.io/templates/internal/#twitter-cards
 

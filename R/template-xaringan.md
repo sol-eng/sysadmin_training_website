@@ -1,7 +1,8 @@
 ---
 title: {{hugo_session}} {{hugo_chapter_title}}
+description: {{Contents}}
 weight: {{weight}}
-tags: ["overview"]
+tags: ["presentation"]
 ---
 
 source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">{{vanity_url}}</a>
