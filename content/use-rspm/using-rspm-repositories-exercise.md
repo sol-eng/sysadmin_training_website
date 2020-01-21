@@ -5,7 +5,7 @@ weight: 285
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise</a>
+source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories-exercise" 
+    src="https://colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

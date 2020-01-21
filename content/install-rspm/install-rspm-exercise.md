@@ -5,7 +5,7 @@ weight: 245
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/install-rspm-exercise</a>
+source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-rspm-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-rspm-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm-exercise" 
+    src="https://colorado.rstudio.com/rsc/team-admin/install-rspm-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

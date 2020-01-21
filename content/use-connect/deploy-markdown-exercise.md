@@ -5,7 +5,7 @@ weight: 205
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise</a>
+source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-mark
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown-exercise" 
+    src="https://colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

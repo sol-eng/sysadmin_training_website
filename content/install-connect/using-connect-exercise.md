@@ -5,7 +5,7 @@ weight: 165
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/using-connect-exercise</a>
+source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-connect-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-conne
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect-exercise" 
+    src="https://colorado.rstudio.com/rsc/team-admin/using-connect-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>
