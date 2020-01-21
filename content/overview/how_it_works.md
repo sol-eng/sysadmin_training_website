@@ -1,7 +1,7 @@
 ---
 title: How the course works
 date: '2020-01-13'
-weight: 30
+weight: 40
 ---
 
 
