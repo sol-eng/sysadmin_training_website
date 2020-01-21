@@ -1,11 +1,11 @@
 ---
-title: 6.1 Exercise
+title: 6.1 Your turn
 description: Installing RStudio Package Manager
 weight: 245
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-rspm-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-rspm-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-rspm-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-rspm-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

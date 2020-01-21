@@ -1,11 +1,11 @@
 ---
-title: 5.3 Exercise
+title: 5.3 Your turn
 description: Deploying REST APIs to RStudio Connect
 weight: 225
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-plumber-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-plumber-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-plumber-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-plumber-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

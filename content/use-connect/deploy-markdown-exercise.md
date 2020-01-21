@@ -1,11 +1,11 @@
 ---
-title: 5.2 Exercise
+title: 5.2 Your turn
 description: Deploying R Markdown reports to RStudio Connect
 weight: 205
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-markdown-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

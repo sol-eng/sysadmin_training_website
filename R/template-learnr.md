@@ -1,11 +1,11 @@
 ---
-title: {{hugo_session}} Exercise
+title: {{hugo_session}} Your turn
 description: {{Description}}
 weight: {{weight + 5}}
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

@@ -1,11 +1,11 @@
 ---
-title: 3.3 Exercise
+title: 3.3 Your turn
 description: Configure RStudio Server Pro to use binary package installation
 weight: 105
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/binary-packages-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/binary-packages-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/binary-packages-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/binary-packages-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

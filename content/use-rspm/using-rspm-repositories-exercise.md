@@ -1,11 +1,11 @@
 ---
-title: 7.1 Exercise
+title: 7.1 Your turn
 description: Using repositories with RStudio Package Manager
 weight: 285
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-rspm-repositories-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

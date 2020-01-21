@@ -1,11 +1,11 @@
 ---
-title: 9.1 Exercise
+title: 9.1 Your turn
 description: Fixing some broken installations
 weight: 325
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/troubleshoot-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/troubleshoot-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/troubleshoot-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/troubleshoot-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

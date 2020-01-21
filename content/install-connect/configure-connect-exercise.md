@@ -1,11 +1,11 @@
 ---
-title: 4.2 Exercise
+title: 4.2 Your turn
 description: Integrate RStudio Connect with email and LDAP
 weight: 145
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/configure-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/configure-connect-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/configure-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/configure-connect-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

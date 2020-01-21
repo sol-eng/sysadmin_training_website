@@ -1,11 +1,11 @@
 ---
-title: 5.1 Exercise
+title: 5.1 Your turn
 description: Deploying Shiny apps to RStudio Connect
 weight: 185
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-shiny-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-shiny-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/deploy-shiny-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/deploy-shiny-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

@@ -81,10 +81,10 @@ unsafe = true
     url = "/"
     weight = 10
 
-[[menu.main]]
-    name = "Curriculum"
-    url = "/overview/curriculum"
-    weight = 20
+# [[menu.main]]
+#     name = "Curriculum"
+#     url = "/overview/curriculum"
+#     weight = 20
 
 [[menu.main]]
     name = "Cheat sheet"

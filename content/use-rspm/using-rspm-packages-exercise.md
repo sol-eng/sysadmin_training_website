@@ -1,11 +1,11 @@
 ---
-title: 7.2 Exercise
+title: 7.2 Your turn
 description: Using packages from RStudio Package Manager
 weight: 305
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-rspm-packages-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-rspm-packages-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-rspm-packages-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-rspm-packages-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

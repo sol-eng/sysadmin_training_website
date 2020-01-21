@@ -1,11 +1,11 @@
 ---
-title: 4.3 Exercise
+title: 4.3 Your turn
 description: Link RStudio Server Pro and RStudio Connect and deploy content
 weight: 165
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-connect-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/using-connect-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

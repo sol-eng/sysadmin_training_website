@@ -1,11 +1,11 @@
 ---
-title: 3.2 Exercise
+title: 3.2 Your turn
 description: Configure RStudio Server Pro with LDAP
 weight: 85
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/security-rsp-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/security-rsp-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/security-rsp-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/security-rsp-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

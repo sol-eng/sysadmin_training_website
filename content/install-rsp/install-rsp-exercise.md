@@ -1,11 +1,11 @@
 ---
-title: 3.1 Exercise
+title: 3.1 Your turn
 description: Install RStudio Server Pro
 weight: 65
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-rsp-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-rsp-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-rsp-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-rsp-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

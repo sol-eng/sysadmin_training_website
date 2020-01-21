@@ -1,11 +1,11 @@
 ---
-title: 4.1 Exercise
+title: 4.1 Your turn
 description: Install RStudio Connect
 weight: 125
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-connect-exercise</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-connect-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

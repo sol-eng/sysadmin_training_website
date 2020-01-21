@@ -1,11 +1,11 @@
 ---
-title: 1.1 Exercise
+title: 1.1 Your turn
 description: Registration and logging in to your virtual machine
 weight: 25
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/team-admin/ssh-in" target="_blank">colorado.rstudio.com/rsc/team-admin/ssh-in</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/ssh-in" target="_blank">colorado.rstudio.com/rsc/team-admin/ssh-in</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
