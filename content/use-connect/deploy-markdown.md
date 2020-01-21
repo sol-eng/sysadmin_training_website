@@ -1,11 +1,11 @@
 ---
 title: 5.2 Deploying Reports
-description: RStudio Connect
-weight: 170
+description: Deploying R Markdown reports to RStudio Connect
+weight: 190
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown" target="_blank">pro-admin-training/deploy-markdown</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-markdown" target="_blank">pro-admin-training/deploy-markdown</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-mark
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

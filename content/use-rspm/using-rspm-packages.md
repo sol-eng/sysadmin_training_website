@@ -1,11 +1,11 @@
 ---
 title: 7.2 Using Packages from RStudio Package Manager
 description: Using packages from RStudio Package Manager
-weight: 270
+weight: 290
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages" target="_blank">pro-admin-training/using-rspm-packages</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-packages" target="_blank">pro-admin-training/using-rspm-packages</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

@@ -1,6 +1,6 @@
 ---
 title: 3.1 Exercise
-description: RSP config, enterprise architecture, install multiple R
+description: Install RStudio Server Pro
 weight: 65
 tags: ["exercise"]
 ---

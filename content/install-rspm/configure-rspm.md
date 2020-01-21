@@ -1,11 +1,11 @@
 ---
 title: 6.2 Configuring RStudio Package Manager
 description: Configuring RStudio Package Manager
-weight: 230
+weight: 250
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm" target="_blank">pro-admin-training/configure-rspm</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-rspm" target="_blank">pro-admin-training/configure-rspm</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-r
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

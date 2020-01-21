@@ -1,11 +1,11 @@
 ---
-title: {{hugo_session}} {{Topic}}
-description: {{Contents}}
+title: {{hugo_session}} {{Title}}
+description: {{Description}}
 weight: {{weight + 5}}
 tags: 
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">colorado.rstudio.com/rsc/{{vanity_url}}</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 

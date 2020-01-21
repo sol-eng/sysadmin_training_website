@@ -31,7 +31,7 @@ dat <- read_csv("static/curriculum.csv", col_types = cols()) %>%
     ) %>%
   mutate(
     weight = 10 * seq_len(n()),
-    id = tolower(gsub(" ", "_", Topic)),
+    id = tolower(gsub(" ", "_", Title)),
     rmd_url = gsub(".Rmd$", ".html", rmd_filename),
     Product = tolower(Product),
     ## match(hugo_chapter, unique(hugo_chapter)) - 1,

@@ -1,7 +1,7 @@
 ---
 title: 7.1 Exercise
 description: Using repositories with RStudio Package Manager
-weight: 265
+weight: 285
 tags: ["exercise"]
 ---
 

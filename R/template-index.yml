@@ -1,4 +1,5 @@
 ---
 Title: {{hugo_section_title}}
+Description: {{hugo_section_title}}
 Weight: {{weight}}
 ---

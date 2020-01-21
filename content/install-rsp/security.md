@@ -1,11 +1,11 @@
 ---
 title: 3.2 Authenticating
-description: Security, configure RSP with LDAP
+description: Introduction to authentication with RStudio Server Pro
 weight: 70
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" t
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

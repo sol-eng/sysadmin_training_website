@@ -1,11 +1,11 @@
 ---
 title: 4.2 Configure RStudio Connect
-description: Configure email and security
-weight: 110
+description: Understanding configuration and integration for RStudio Connect
+weight: 130
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect" target="_blank">pro-admin-training/configure-connect</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-connect" target="_blank">pro-admin-training/configure-connect</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/configure-c
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

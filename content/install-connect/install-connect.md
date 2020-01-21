@@ -1,11 +1,11 @@
 ---
 title: 4.1 Installing RStudio Connect
-description: Install Connect
-weight: 90
+description: Introduction to RStudio Connect
+weight: 110
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect" target="_blank">pro-admin-training/install-connect</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect" target="_blank">pro-admin-training/install-connect</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-con
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

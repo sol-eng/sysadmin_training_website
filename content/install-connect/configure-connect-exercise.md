@@ -1,7 +1,7 @@
 ---
 title: 4.2 Exercise
-description: Configure email and security
-weight: 125
+description: Integrate RStudio Connect with email and LDAP
+weight: 145
 tags: ["exercise"]
 ---
 

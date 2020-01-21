@@ -1,11 +1,11 @@
 ---
 title: 3.1 Installing RStudio Server Pro
-description: RSP config, enterprise architecture, install multiple R
+description: Architectural, sizing and security considerations for RStudio Server Pro
 weight: 50
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target="_blank">pro-admin-training/RSP</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target="_blank">pro-admin-training/RSP</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/RSP" target
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

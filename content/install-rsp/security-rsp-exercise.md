@@ -1,6 +1,6 @@
 ---
 title: 3.2 Exercise
-description: Security, configure RSP with LDAP
+description: Configure RStudio Server Pro with LDAP
 weight: 85
 tags: ["exercise"]
 ---

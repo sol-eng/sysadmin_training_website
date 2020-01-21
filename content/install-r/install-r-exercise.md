@@ -1,6 +1,6 @@
 ---
 title: 2.1 Exercise
-description: Install R
+description: Install R from pre-compiled binaries on your VM
 weight: 45
 tags: ["exercise"]
 ---

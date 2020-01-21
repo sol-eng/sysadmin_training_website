@@ -1,7 +1,7 @@
 ---
 title: 7.2 Exercise
 description: Using packages from RStudio Package Manager
-weight: 285
+weight: 305
 tags: ["exercise"]
 ---
 

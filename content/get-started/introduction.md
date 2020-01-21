@@ -1,11 +1,11 @@
 ---
 title: 1.1 Getting started
-description: Welcome
+description: Introduction to the course
 weight: 10
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introduction" target="_blank">pro-admin-training/introduction</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/introductio
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

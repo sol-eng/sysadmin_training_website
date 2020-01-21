@@ -1,7 +1,7 @@
 ---
 title: 5.2 Exercise
-description: RStudio Connect
-weight: 185
+description: Deploying R Markdown reports to RStudio Connect
+weight: 205
 tags: ["exercise"]
 ---
 

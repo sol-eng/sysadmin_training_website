@@ -1,7 +1,7 @@
 ---
 title: 4.3 Exercise
-description: Deployment, bundles
-weight: 145
+description: Link RStudio Server Pro and RStudio Connect and deploy content
+weight: 165
 tags: ["exercise"]
 ---
 

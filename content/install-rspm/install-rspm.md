@@ -1,11 +1,11 @@
 ---
 title: 6.1 Installing RStudio Package Manager
 description: Installing RStudio Package Manager
-weight: 210
+weight: 230
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm" target="_blank">pro-admin-training/install-rspm</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm" target="_blank">pro-admin-training/install-rspm</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rsp
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

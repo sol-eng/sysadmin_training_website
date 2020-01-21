@@ -1,11 +1,11 @@
 ---
-title: {{hugo_session}} {{hugo_chapter_title}}
-description: {{Contents}}
+title: {{hugo_session}} {{Title}}
+description: {{Description}}
 weight: {{weight}}
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">{{vanity_url}}</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank">{{vanity_url}}</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,8 +21,4 @@ source: <a href="https://colorado.rstudio.com/rsc/{{vanity_url}}" target="_blank
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-
 

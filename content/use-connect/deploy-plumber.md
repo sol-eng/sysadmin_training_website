@@ -1,11 +1,11 @@
 ---
 title: 5.3 Deploying APIs
-description: RStudio Connect
-weight: 190
+description: Deploying REST APIs to RStudio Connect
+weight: 210
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" target="_blank">pro-admin-training/deploy-plumber</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plumber" target="_blank">pro-admin-training/deploy-plumber</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-plum
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

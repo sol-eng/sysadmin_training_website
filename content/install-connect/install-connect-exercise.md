@@ -1,7 +1,7 @@
 ---
 title: 4.1 Exercise
-description: Install Connect
-weight: 105
+description: Install RStudio Connect
+weight: 125
 tags: ["exercise"]
 ---
 

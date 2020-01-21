@@ -1,11 +1,11 @@
 ---
 title: 7.1 Using Repositories with RStudio Package Manager
 description: Using repositories with RStudio Package Manager
-weight: 250
+weight: 270
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" target="_blank">pro-admin-training/using-rspm-repositories</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" target="_blank">pro-admin-training/using-rspm-repositories</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

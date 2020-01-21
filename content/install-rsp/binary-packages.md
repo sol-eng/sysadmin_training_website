@@ -1,11 +1,11 @@
 ---
-title: 5.1 Deploying Shiny Apps
-description: Deploying Shiny apps to RStudio Connect
-weight: 170
+title: 3.3 R startup and binary packages
+description: Understanding the R startup sequence, and introduction to fast binary packages
+weight: 90
 tags: ["presentation"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" target="_blank">pro-admin-training/deploy-shiny</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/binary-packages" target="_blank">team-admin/binary-packages</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -15,7 +15,7 @@ tags: ["presentation"]
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny" 
+      src="https://colorado.rstudio.com/rsc/team-admin/binary-packages" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

@@ -1,6 +1,6 @@
 ---
 title: 1.1 Exercise
-description: SSH in
+description: Registration and logging in to your virtual machine
 weight: 25
 tags: ["exercise"]
 ---

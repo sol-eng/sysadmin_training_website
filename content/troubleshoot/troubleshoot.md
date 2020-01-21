@@ -1,11 +1,11 @@
 ---
 title: 9.1 Troubleshooting
-description: Troubleshooting, open source R, licensing, authentication, working with support, environment variables
-weight: 290
+description: Troubleshooting, open source R, licensing, authentication, working with support, and environment variables
+weight: 310
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" target="_blank">pro-admin-training/troubleshoot</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" target="_blank">pro-admin-training/troubleshoot</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoo
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

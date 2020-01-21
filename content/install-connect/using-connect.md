@@ -1,11 +1,11 @@
 ---
 title: 4.3 Understanding Connect deployment
-description: Deployment, bundles
-weight: 130
+description: Understanding the Connect deployment process and bundles
+weight: 150
 tags: ["presentation"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" target="_blank">pro-admin-training/using-connect</a>
+<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" target="_blank">pro-admin-training/using-connect</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -21,7 +21,3 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-conne
     </iframe>
   </div>
 </div>
-
-
-To view the presentation in full screen, click into the presentation then press "f" on your keyboard.
-

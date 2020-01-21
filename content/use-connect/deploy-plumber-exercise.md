@@ -1,7 +1,7 @@
 ---
 title: 5.3 Exercise
-description: RStudio Connect
-weight: 205
+description: Deploying REST APIs to RStudio Connect
+weight: 225
 tags: ["exercise"]
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: 5.1 Exercise
-description: Deploying Shiny apps to RStudio Connect
-weight: 185
+title: 3.3 Exercise
+description: Configure RStudio Server Pro to use binary package installation
+weight: 105
 tags: ["exercise"]
 ---
 
-source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny-exercise</a>
+source: <a href="https://colorado.rstudio.com/rsc/team-admin/binary-packages-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/binary-packages-exercise</a>
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shin
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/deploy-shiny-exercise" 
+    src="https://colorado.rstudio.com/rsc/team-admin/binary-packages-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

@@ -1,6 +1,6 @@
 ---
 title: {{hugo_session}} Exercise
-description: {{Contents}}
+description: {{Description}}
 weight: {{weight + 5}}
 tags: ["exercise"]
 ---
