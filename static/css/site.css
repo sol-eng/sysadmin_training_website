@@ -68,3 +68,8 @@ h1 {
   line-height: 1;
   padding-bottom: 0.5em;
 }  
+
+
+.concept-map img {
+  padding: 2em;
+}
