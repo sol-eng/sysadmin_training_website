@@ -39,12 +39,12 @@ If you work in a heavily regulated company, you may have to provide your IT secu
     - rstudio.cloud
     - rstudio-cdn.s3.amazonaws.com
 
-* You must be able to SSH into a virtual machine hosted on Amazon AWS
+* Your firewall must allow access to the IP address of the virtual machine:
 
-    - The IP address and host name will be allocated dynamically when you claim the machine
+    - The IP address and host name will be allocated dynamically when you claim the machine (once the course starts)
     - At the moment we do not have a mechanism to allocate IP addresses in a pre-defined range
 
-* You will communicate to the services inside this VM using multiple ports:
+* You will communicate to the services inside this VM via a proxy on port 80, which eventually resolves to ports:
 
     - 8787 (RStudio Server Pro)
     - 4242 (RStudio Package Manager)
