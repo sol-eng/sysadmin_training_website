@@ -27,3 +27,25 @@ Hardware requirements:
 * You should be able to SSH into an AWS virtual machine
 
 You will not be required to install any software on your laptop.  We will provide you with an Amazon AWS virtual machine and you will access this VM and do installation there.
+
+If you work in a heavily regulated company, you may have to provide your IT security team with the following information, to ensure you can access all the material:
+
+* You must be able to access these web domains:
+    - rstudio.com
+    - shinyapps.io
+    - rstudio.cloud
+    - rstudio-cdn.s3.amazonaws.com
+
+* You must be able to SSH into a virtual machine hosted on Amazon AWS
+
+    - The IP address and host name will be allocated dynamically when you claim the machine
+    - At the moment we do not have a mechanism to allocate IP addresses in a pre-defined range
+
+* You will communicate to the services inside this VM using multiple ports:
+
+    - 8787 (RStudio Server Pro)
+    - 4242 (RStudio Package Manager)
+    - 3939 (RStudio Connect)
+
+At the moment we use Google Forms for a pre-course poll as well as a simple post-course questionnaire.
+
