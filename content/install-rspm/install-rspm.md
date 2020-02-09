@@ -5,7 +5,7 @@ weight: 230
 tags: ["presentation"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm" target="_blank">pro-admin-training/install-rspm</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-rspm" target="_blank">team-admin/install-rspm</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -15,7 +15,7 @@ tags: ["presentation"]
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/install-rspm" 
+      src="https://colorado.rstudio.com/rsc/team-admin/install-rspm" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

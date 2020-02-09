@@ -5,7 +5,7 @@ weight: 25
 tags: ["exercise"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/ssh-in" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/ssh-in</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/ssh-in" target="_blank">colorado.rstudio.com/rsc/team-admin/ssh-in</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ tags: ["exercise"]
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/ssh-in" 
+    src="https://colorado.rstudio.com/rsc/team-admin/ssh-in" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

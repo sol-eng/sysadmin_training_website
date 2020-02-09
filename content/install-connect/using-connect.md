@@ -5,7 +5,7 @@ weight: 150
 tags: ["presentation"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" target="_blank">pro-admin-training/using-connect</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-connect" target="_blank">team-admin/using-connect</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -15,7 +15,7 @@ tags: ["presentation"]
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-connect" 
+      src="https://colorado.rstudio.com/rsc/team-admin/using-connect" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

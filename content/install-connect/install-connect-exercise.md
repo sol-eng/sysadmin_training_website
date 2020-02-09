@@ -5,7 +5,7 @@ weight: 125
 tags: ["exercise"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect-exercise" target="_blank">colorado.rstudio.com/rsc/pro-admin-training/install-connect-exercise</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/install-connect-exercise" target="_blank">colorado.rstudio.com/rsc/team-admin/install-connect-exercise</a> -->
 
 <script src="/js/iframeResizer.min.js" type="text/javascript"></script>
 
@@ -19,7 +19,7 @@ tags: ["exercise"]
   </div>
 
   <iframe id="learnr_iframe"
-    src="https://colorado.rstudio.com/rsc/pro-admin-training/install-connect-exercise" 
+    src="https://colorado.rstudio.com/rsc/team-admin/install-connect-exercise" 
     gesture="media"  allowfullscreen
     scrolling="yes">
   </iframe>

@@ -5,7 +5,7 @@ weight: 310
 tags: ["presentation"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" target="_blank">pro-admin-training/troubleshoot</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/troubleshoot" target="_blank">team-admin/troubleshoot</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -15,7 +15,7 @@ tags: ["presentation"]
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/troubleshoot" 
+      src="https://colorado.rstudio.com/rsc/team-admin/troubleshoot" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

@@ -5,7 +5,7 @@ weight: 270
 tags: ["presentation"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" target="_blank">pro-admin-training/using-rspm-repositories</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/using-rspm-repositories" target="_blank">team-admin/using-rspm-repositories</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -15,7 +15,7 @@ tags: ["presentation"]
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/using-rspm-repositories" 
+      src="https://colorado.rstudio.com/rsc/team-admin/using-rspm-repositories" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>

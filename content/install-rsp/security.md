@@ -5,7 +5,7 @@ weight: 70
 tags: ["presentation"]
 ---
 
-<!-- source: <a href="https://colorado.rstudio.com/rsc/pro-admin-training/security" target="_blank">pro-admin-training/security</a> -->
+<!-- source: <a href="https://colorado.rstudio.com/rsc/team-admin/security" target="_blank">team-admin/security</a> -->
 <div class="xaringan-column">
   <div class="responsive-container-xaringan">
     <div class="animated-r-wrapper">
@@ -15,7 +15,7 @@ tags: ["presentation"]
       <div class="animated-r-diagonal"></div>
     </div>
     <iframe 
-      src="https://colorado.rstudio.com/rsc/pro-admin-training/security" 
+      src="https://colorado.rstudio.com/rsc/team-admin/security" 
           gesture="media"  allow="encrypted-media" allowfullscreen
           scrolling="no">
     </iframe>
