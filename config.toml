@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://team-admin.rstudio.com/"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -35,7 +35,7 @@ unsafe = true
     github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
 
     # Analytic section
-    google_analytics_id = "UA-20375833-26" # Your Google Analytics tracking id
+    google_analytics_id = "UA-20375833-3" # Your Google Analytics tracking id
     tag_manager_container_id = "" # Your Google Tag Manager container id
     google_site_verification = "" # Your Google Site Verification for Search Console
 
